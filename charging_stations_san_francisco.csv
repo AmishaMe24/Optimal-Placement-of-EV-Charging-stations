@@ -1,0 +1,1003 @@
+latitude,longitude,station_name,street_address,city,state,zip,num_points,operator,usage_cost
+37.774142,-122.418547,City of San Francisco - 49 SVN,49 S Van Ness Ave,San Francisco,CA,94102,1,Unknown,Not specified
+37.775745,-122.418191,HUDSON PACIFIC 1455 LOBBY 1,1455 Market St,San Francisco,CA,94103,2,Unknown,Not specified
+37.774933,-122.41726,HUDSON PACIFIC 1455 STATION 1,1455 Market Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.774846,-122.417113,HUDSON PACIFIC 1455 STATION 10,1455 Market Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.7767355,-122.4189577,100 Van Ness - Garage - B1,100 Van Ness Avenue,San Francisco,CA,94102,1,Unknown,Not specified
+37.775819,-122.417239,NEMA Apartments,1411 Market Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.7772738,-122.4192281,150 Van Ness,150 Van Ness Avenue,San Francisco,CA,94102,1,Unknown,Not specified
+37.774966,-122.416038,MONOGRAM RES OLUME 2,1401 Mission St,San Francisco,CA,94103,1,Unknown,Not specified
+37.77356772,-122.415794,169 11th St,169 11th St,San Francisco,California,94103,1,Unknown,Not specified
+37.777522,-122.415426,Dolby Laboratories,1275 Market Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.778072,-122.422703,CCSF SFMTA,360 Grove St,San Francisco,CA,94102,2,Unknown,Not specified
+37.7749694,-122.4247376,431407 : Avalon Hayes Valley,325 Octavia Street,SF,CA,94102,1,Unknown,Not specified
+37.77913284,-122.4182205,Dr Carlton B Goodlett Pl,Dr Carlton B Goodlett Pl,San Francisco,California,94102,2,Unknown,Not specified
+37.77913,-122.418,San Francisco City Hall,1 Dr Carlton B Goodlet Pl,San Francisco,CA,94102,3,Unknown,Not specified
+37.780078,-122.420544,DGS MAIN,505 Van Ness Ave,San Francisco,CA,94102,1,Unknown,Not specified
+37.780122,-122.417725,CCSF-SFMTA CIVIC CTR 4,355 McAllister St,San Francisco,CA,94102,1,Unknown,Not specified
+37.7782,-122.41375,Whole Foods San Francisco -Trinity Place,1185 Market St,San Francisco,CA,94103,5,Unknown,Not specified
+37.78066,-122.4211,DGS Lot 88,505 Van Ness Ave,San Francisco,CA,94102,1,Unknown,Not specified
+37.77859773657566,-122.41259937333808,Soma Grand,1160 Mission St,San Francisco,CA,94103,3,Unknown,Not specified
+37.7811644,-122.416844,UC Hastings Larkin Garage,"376 Larkin Street San Francisco, CA",San Francisco,California,94102,3,Unknown,$9.95
+37.7783901,-122.412238,ACE Parking,1160 Mission Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.781445,-122.421319,"San Francisco, Ca Supercharger",601 Van Ness Avenue,San Francisco,CA,94102,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.781583,-122.417563,GSA CW BURTON ST. 2,450 Golden Gate Ave,San Francisco,CA,94102,1,Unknown,Not specified
+37.7818291,-122.4214379,OPERA PLAZA,601 Van Ness Ave,San Francisco,CA,94102,1,Unknown,Not specified
+37.77055,-122.410891,Costco San Francisco #144,450 10th Street,SF,CA,94118,1,Unknown,Not specified
+37.7683182,-122.4271088,Whole Foods - Market Street,2001 Market Street,San Francisco,California,CA 94114,2,Unknown,$9.95
+37.77998734,-122.4097977,1045 Mission St,1045 Mission St,San Francisco,California,94103,1,Unknown,Not specified
+37.76549,-122.41673,Lyft Overnight Charging (Not Open to Public),2860 16th St,San Francisco,CA,94103,3,Unknown,Not specified
+37.7850447,-122.4198061,AMC Parking Lot Geary Blvd,1000 Van Ness Ave,San Francisco,CA,94109,3,Unknown,Not specified
+37.784189,-122.424892,521423_St Marys Cathedral,1111 Gough St,San Francisco,CA,94014,1,Unknown,Not specified
+37.764405,-122.413671,OUST VELO4,350 Treat Ave,San Francisco,CA,94110,1,Unknown,Not specified
+37.782834,-122.408838,945 MARKET,945 Market St,San Francisco,CA,94103,2,Unknown,Not specified
+37.766033,-122.408981,"San Francisco, CA - 16th Street",2300 16th Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.765786947096814,-122.40925498625472,Potrero Center,2300 16th Street,San Francisco,CA,94103,3,Unknown,Not specified
+37.787641,-122.420268,MICHAEL STATION 1,1201 Sutter St,San Francisco,CA,94109,1,Unknown,Not specified
+37.7799072,-122.4044935,ESSEX,400 Clementina St,San Francisco,CA,94103,1,Unknown,Not specified
+37.78365,-122.4313,"Safeway 0995 - San Francisco, CA",1335 Webster St.,San Francisco,CA,94115,2,Unknown,Not specified
+37.784871,-122.408991,Parc 55 Hotel,55 Cyril Magnin,San Francisco,CA,94102,1,Unknown,Not specified
+37.785523,-122.428919,"Hotel Kabuki, A Joie de Vivre Hotel",1625 Post St,San Francisco,CA,94115,1,Unknown,Free
+37.770218,-122.403873,650 TOWNSEND BCP 6,699 8th St,San Francisco,CA,94103,1,Unknown,Not specified
+37.785057,-122.43,CCSF-SFMTA JAPAN CTR 1,1610 Geary Blvd,San Francisco,CA,94115,1,Unknown,Not specified
+37.7849121,-122.4302368,CCSF-SFMTA,1610 Geary Blvd,San Francisco,CA,94115,3,Unknown,Not specified
+37.786079,-122.4104325,Hilton San Francisco Union Square,333 O'farrell St,San Francisco,California,94102,1,Unknown,Not specified
+37.782848,-122.405926,CCSF SFMTA,833 Mission St,San Francisco,CA,94103,2,Unknown,Not specified
+37.7801955,-122.4039035,ESSEX,900 Folsom St,San Francisco,CA,94107,1,Unknown,Not specified
+37.7829829,-122.4058287,CCSF SFMTA,863 Mission St,San Francisco,CA,94103,2,Unknown,Not specified
+37.788089,-122.4160023,431401 : AVA Nob Hill,965 Sutter Street,SF,CA,94109,1,Unknown,Not specified
+37.782329,-122.4049949,DUGONI,155 5th Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.782079,-122.404764,InterContinental Hotel - San Francisco,888 Howard St,San Francisco,CA,94103,1,Unknown,Not specified
+37.788311,-122.422416,Nissan San Francisco,1395 Van Ness Ave,San Francisco,CA,94109,1,Unknown,Not specified
+37.77856,-122.40272,Harrison Street Flagship,928 Harrison Street,San Francisco,CA,94107,2,Unknown,Not specified
+37.7886429,-122.4200287,SFMTA Polk/Bush Garage,1399 Bush St,San Francisco,CA,94109,2,Unknown,Garage Fee + $2/session + variable/kWh
+37.7886429,-122.4200287,CCSF SFMTA,1399 Bush St,San Francisco,CA,94109,2,Unknown,Not specified
+37.786467,-122.409766,Mason O' Farrell Garage,325 Mason Street,San Francisco,CA,94102,1,Unknown,Not specified
+37.7819286,-122.4041764,ACE PKG - 875 HOWARD GRG,875 Howard Street,San Francisco,CA,94103,1,Unknown,Not specified
+37.784902,-122.432567,CCSF-SFMTA JCG ANNEX 1,1650 Fillmore St,San Francisco,CA,94115,1,Unknown,Not specified
+37.78679,-122.430143,"Hotel Buchanan, A Kimpton Hotel",1800 Sutter St,San Francisco,CA,94115,1,Unknown,Not specified
+37.770767,-122.401661,Adobe - SF Office - Phase 1,601 Townsend St,San Francisco,CA,94103,1,Unknown,Not specified
+37.785976,-122.407309,CCSF SFMTA ELLIS 1,123 O'Farrell,San Francisco,CA,94102,1,Unknown,Not specified
+37.7733744,-122.4007114,STRIPE,510 Townsend St,San Francisco,CA,94103,1,Unknown,Not specified
+37.789486,-122.423562,Rockwell Condos,1688 Pine Street,San Francisco,CA,94109,1,Unknown,Not specified
+37.784911,-122.405334,Pacific Place Garage,22 4Th St,San Francisco,CA,94103,1,Unknown,Not specified
+37.788312,-122.409919,BMW GROUP,520 Mason St,San Francisco,CA,94102,1,Unknown,Not specified
+37.789923,-122.423811,Whole Foods Market,1765 California St,San Francisco,CA,94109,2,Unknown,Not specified
+37.787828,-122.408731,The Westin St. Francis San Francisco on Union Square,335 Powell St,San Francisco,California,94102,1,Unknown,Not specified
+37.7681498,-122.4017294,Volta Headquarters,155 De Haro St,San Francisco,CA,94103,1,Unknown,Not specified
+37.7849,-122.4043,San Francisco Marriott Marquis,780 Mission St,San Francisco,CA,94103,1,Unknown,Free
+37.787932,-122.407568,CCSF-SFMTA UNION SQUARE 2,333 Post St,San Francisco,CA,94108,1,Unknown,Not specified
+37.788153,-122.407574,CCSF SFMTA,333 Post St,San Francisco,CA,94108,2,Unknown,Not specified
+37.786313,-122.404781,Four Seasons Hotel,765 Market St,San Francisco,CA,94103,1,Unknown,Not specified
+37.7851209,-122.435606,2000 Post St,2000 Post St,San Francisco,California,94115,1,Unknown,Not specified
+37.76443,-122.4030318,Whole Foods San Francisco (Potrero Hill), 450 Rhode Island St,"San Francisco, CA",California,94107,2,Unknown,9.95$
+37.781216,-122.399742,Whole Foods Market,399 4th St,San Francisco,CA,94107,2,Unknown,Not specified
+37.7660567,-122.401369,Fuse Project #2,1401  16th St,San Francisco,CA,94103,1,Unknown,Not specified
+37.7915441,-122.4221102,ACE Parking / 1776 Sacramento,1776 Sacramento Street,San Francisco,CA,94109,1,Unknown,Not specified
+37.76423691094149,-122.40279831839922,Whole Foods Market,450 Rhode Island Street,San Francisco,CA,94107,3,Unknown,Not specified
+37.79032,-122.409755,Impark Parking,750 Bush Street,San Francisco,CA,94108,1,Unknown,Not specified
+37.791743,-122.414455,1200 California Corporation,1200 California Street,San Francisco,CA,94109,1,Unknown,Not specified
+37.7865518,-122.4030771,Park Central Hotel - Tesla,50 3rd St,San Francisco,CA,94103,1,Unknown,Free
+37.791537,-122.412813,The Masonic,1111 California St,San Francisco,California,94108,1,Unknown,Not specified
+37.772625,-122.397165,UDR SHOP 2,355 Berry St,San Francisco,CA,94158,1,Unknown,Not specified
+37.7873889,-122.4033868,Whole Foods Market,4th Street,San Francisco,San Francisco City and County,94103-3124,2,Unknown,Not specified
+37.78932,-122.406038,CCSF-SFMTA SUTTER 1,345 Sutter St,San Francisco,CA,94108,1,Unknown,Not specified
+37.791405,-122.410248,Mark Hopkins InterContinental Hotel,999 California St,San Francisco,CA,94108,3,Unknown,Free
+37.785866,-122.401217,St Regis Hotel,125 3rd St,San Francisco,CA,94103,1,Unknown,Not specified
+37.790044,-122.406901,CCSF SFMTA,444 Stockton St,San Francisco,CA,94108,2,Unknown,Not specified
+37.782688,-122.398346,360 3RD ST,360 3rd St,San Francisco,CA,94107,1,Unknown,Not specified
+37.784418,-122.39942,CCSF SFMTA,255 3rd St,San Francisco,CA,94103,2,Unknown,Not specified
+37.790379635,-122.432179039,Webster Street Medical Center Southwest DCFC,2100 Webster Street,San Francisco,CA,94115,1,Unknown,Not specified
+37.791983,-122.409718,Stanford Court Hotel,905 California St,San Francisco,CA,94108,1,Unknown,Not specified
+37.786471,-122.400421,Moma-City Park,147 Minna St,San Francisco,CA,94105,1,Unknown,Not specified
+37.78331760416101,-122.39776558534226,SoMa Square Apartments,1 St. Francis Place,San Francisco,California,94105,1,Unknown,Not specified
+37.7924958,-122.4100354,The Fairmont San Francisco,950 Mason St,San Francisco,CA,94108,1,Unknown,Not specified
+37.76261,-122.400756,555 DE HARO 555DEHARO,555 De Haro St,San Francisco,CA,94107,1,Unknown,Not specified
+37.7849718,-122.4404103,ARC LIGHT,2467 Sutter St,San Francisco,CA,94115,1,Unknown,Not specified
+37.7786204,-122.3951795,531410 : 475 Brannan Street,475 Brannan Street,SF,CA,94107,1,Unknown,Not specified
+37.7918779,-122.4071784,The Ritz-Carlton Hotel San Francisco,600 Stockton St,San Francisco,CA,94108,1,Unknown,Free
+37.785443,-122.44059,UCSF CAMPUS,2420 Sutter St,San Francisco,CA,94115,1,Unknown,Not specified
+37.785487,-122.398057,Environmental Protection Agency,75 Hawthorne St,San Francisco,CA,94105,1,Unknown,Not specified
+37.78881,-122.401,Palace Hotel,2 New Montgomery St,San Francisco,CA,94105,2,Unknown,Not specified
+37.786325,-122.39824,222 GARAGE,222 2nd St,San Francisco,CA,94105,1,Unknown,Not specified
+37.76854706,-122.3949509,1625 Owens St,1625 Owens St,San Francisco,California,94158,2,Unknown,Not specified
+37.7878613,-122.3994485,101 Second Street Garage,"101 Second Street, #225",San Francisco,CA,94105,1,Unknown,Not specified
+37.788097,-122.39918,101 Second Street Garage - Tesla Destination,101 Second St.,San Francisco,CA,94111,1,Unknown,Not specified
+37.784132,-122.395913,600 HARRISON,600 Harrison St,San Francisco,CA,94107,1,Unknown,Not specified
+37.792013,-122.404506,CCSF SFMTA,433 Kearny St,San Francisco,CA,94108,2,Unknown,Not specified
+37.77604,-122.44565,Lucky San Francisco #756,1750 Fulton St,San Francisco,CA,94117,2,Unknown,Not specified
+37.7914175,-122.4034082,350 BUSH STREET OWNER LLC,350 Bush Street,SF,CA,94104,1,Unknown,Not specified
+37.777376,-122.393161,BEACON GARAGE,250 King St,San Francisco,CA,94107,1,Unknown,Not specified
+37.768114,-122.394341,UCSF CAMPUS MBHOSPITAL EV1,1835 Owens St,San Francisco,CA,94158,1,Unknown,Not specified
+37.7886963,-122.399372,560 Mission Parking Garage,560 Mission Street,San Francisco,CA,94105,0,Unknown,$4.00/ 0-4 hours; $8.00/ 4-8 hours
+37.792629,-122.405029,"Columbia REIT - 650 California, LLC",650 California Street,San Francisco,CA,94108,1,Unknown,Not specified
+37.767928,-122.3942639,Owens St Parking Garage,1670 Owens Street,San Francisco,CA,94158,1,Unknown,Not specified
+37.778305,-122.393055,BEACON GARAGE 250 KING ST 4,250 King St,San Francisco,CA,94107,1,Unknown,Not specified
+37.768289,-122.393906,UCSF CAMPUS MBEVSE2,1625 Owens St,San Francisco,CA,94158,1,Unknown,Not specified
+37.791303,-122.402356,MILLS GARAGE MILLS GARAGE,220 Montgomery St,San Francisco,CA,94104,1,Unknown,Not specified
+37.788554,-122.398826,555 Mission - Parking Garage,555 Mission St,San Francisco,CA,94105,2,Unknown,Not specified
+37.785522,-122.396019,303 SECOND ST. KILROY DCFC 3,303 2nd St,San Francisco,CA,94107,2,Unknown,Not specified
+37.784839,-122.39538,303 SECOND ST. KILROY REALTY 1,303 2nd St,San Francisco,CA,94107,1,Unknown,Not specified
+37.771541,-122.392623,MHC 78 L.P. 691CHINABASINEV,691 China Basin St,San Francisco,CA,94158,2,Unknown,Not specified
+37.79282,-122.403595,CARCHARGING,550 California St,San Francisco,CA,94104,1,Unknown,Not specified
+37.772489,-122.391835,ESSEX,1200 4th St,San Francisco,CA,94158,1,Unknown,Not specified
+37.773019,-122.391584,ESSEX MISSION BAY 3,1200 4th Street,San Francisco,CA,94158,1,Unknown,Not specified
+37.793514,-122.404236,550 KEARNY STATION 1,665 Sacramento St,San Francisco,CA,94111,1,Unknown,Not specified
+37.7810555,-122.3923534,333 BRANNAN,333 Brannan St,San Francisco,CA,94107,1,Unknown,Not specified
+37.7794724,-122.3918304,CARCHARGING,153 Townsend St,San Francisco,CA,94107,1,Unknown,Not specified
+37.755681,-122.405087,CCSF-SFMTA SFGH 1,1001 Potrero Ave,San Francisco,CA,94110,1,Unknown,Not specified
+37.755619,-122.405065,CCSF-SFMTA SFGH 2,1001 Potrero Ave,San Francisco,CA,94110,1,Unknown,Not specified
+37.7884892,-122.3967349,500 Howard ST,500 Howard ST,San Francisco,CA,94105,1,Unknown,Not specified
+37.791185,-122.39968,Tishman Speyer,1 Bush Street,San Francisco,CA,94104,1,Unknown,Not specified
+37.7879608,-122.3961165,Foundry III,505 Howard Street,San Francisco,CA,94105,1,Unknown,Not specified
+37.772668,-122.390913,STRATA STRATA 2,1201 4th St,San Francisco,CA,94158,1,Unknown,Not specified
+37.78223,-122.44656,"San Francisco, CA - Geary Boulevard (Wall Connector) - Tesla Destination",2675 Geary Blvd,San Francisco,CA,94118,1,Unknown,Not specified
+37.766507,-122.392671,UCSF CAMPUS,1835 Owens St,San Francisco,CA,94158,1,Unknown,Not specified
+37.792442,-122.401039,Loews Regency San Francisco,222 Sansome St,San Francisco,CA,94104,1,Unknown,Free
+37.794835,-122.405351,CCSF SFMTA,733 Kearny St,San Francisco,CA,94108,2,Unknown,Not specified
+37.7908101,-122.3985221,G1 EV CHARGERS,455 Market St,San Francisco,CA,94105,1,Unknown,Not specified
+37.782076,-122.447026,City Center - Tesla Supercharger,2675 Geary Blvd,San Francisco,CA,94118,2,Unknown,Not specified
+37.754872,-122.405106,CCSF-SFMTA SFGH 3,2500 23rd St,San Francisco,CA,94110,1,Unknown,Not specified
+37.794124,-122.403223,505 Montgomery,505 Montgomery St,San Francisco,CA,94111,1,Unknown,Not specified
+37.765695,-122.392564,"LONGFELLOW 1800 9 (92,92)",1800 Owens St,San Francisco,CA,94158,1,Unknown,Not specified
+37.795,-122.404888,Financial District,750 Kearny Street,Hilton San Francisco,CA,94111,1,Unknown,Not specified
+37.795,-122.404888,Financial District,750 Kearny Street,Hilton San Francisco,CA,94111,0,Unknown,Not specified
+37.7814995,-122.3912756,ACE Parking - 625 2nd St Pkg Grg,625 2nd Street,San Francisco,CA,94107,1,Unknown,Not specified
+37.765967,-122.3922545,Owens Street  Garage,1835 Owens St,San Francisco,CA,94158,1,Unknown,Not specified
+37.795208,-122.404869,Hilton San Francisco Financial District,750 Kearny St,San Francisco,California,94108,1,Unknown,Not specified
+37.792496,-122.39998,345 California Center Parking Garage,115 Battery St,San Francisco,CA,94111,1,Unknown,Free
+37.795186,-122.404668,Hilton San Francisco Financial District,750 Kearny St,San Francisco,CA,94115,1,Unknown,Not specified
+37.795186,-122.404668,Hilton San Francisco Financial District,750 Kearny St,San Francisco,CA,94115,0,Unknown,Not specified
+37.7861748,-122.3934314,Modera Rincon Hill,390 1st Street,SF,CA,94105,1,Unknown,Not specified
+37.78296,-122.391555,BASEMENT LEVEL,270 Brannan St,San Francisco,CA,94107,1,Unknown,Not specified
+37.793016,-122.400546,345 CAL EVCS 345 CAL EVCS,345 California St,San Francisco,CA,94104,1,Unknown,Not specified
+37.791332,-122.398215,425 MARKET ST. STATION 1,425 Market St,San Francisco,CA,94105,1,Unknown,Not specified
+37.7927019,-122.3999596,345 CAL EVCS,123 Battery St,San Francisco,CA,94111,1,Unknown,Not specified
+37.7885734,-122.3951353,JLL/Ace Parking,405 Howard St,San Francisco,CA,94105,1,Unknown,Not specified
+37.781887,-122.390854,625 GARAGE STATION 1,625 2nd St.,San Francisco,CA,94107,1,Unknown,Not specified
+37.75437927,-122.4044876,2501 23rd St,2501 23rd St,San Francisco,California,94110,2,Unknown,Not specified
+37.773097,-122.389495,ABM PARKING LOT A-1,6653 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.79849,-122.41516,The Summit 999,999 Green St,San Francisco,CA,94133,1,Unknown,Not specified
+37.792644,-122.399081,100 PINE PARKING LEVEL 1,139 Front St,San Francisco,CA,94111,1,Unknown,Not specified
+37.792189,-122.398394,STATION 1 CHARGER 1,50 Front St,San Francisco,CA,94111,1,Unknown,Not specified
+37.785721,-122.3922909,GE WattStation #3,425 1st St,San Francisco,CA,94105,1,Unknown,Not specified
+37.790885,-122.396686,SALESFORCE 350 MISSION,350 Mission St,San Francisco,CA,94105,1,Unknown,Not specified
+37.798818,-122.415833,1000 Green St Apartments,1000 Green St,San Francisco,CA,94133,1,Unknown,Not specified
+37.780116,-122.389648,Greenlots - 112647U,88 King Street,San Francisco,CA,94107,1,Unknown,Not specified
+37.79422,-122.437701,Broadway Charger (btw Pierce & Steiner),2468 Broadway,San Francisco,CA,94115,1,Unknown,Not specified
+37.77122879,-122.3891602,480 Mission Bay Blvd N,480 Mission Bay Blvd N,San Francisco,California,94158,1,Unknown,Not specified
+37.793863,-122.40037,275 Battery St,275 Battery St,San Francisco,California,94111,1,Unknown,Not specified
+37.776141,-122.388795,IMPARK SF,152 Terry A Francois Blvd,San Francisco,CA,94158,1,Unknown,Not specified
+37.768,-122.39,UCSF - 1630 3rd Garage,1630 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.790543,-122.395922,Millennium Towers,301 Mission St,San Francisco,CA,94105,1,Unknown,Not specified
+37.768046,-122.3897115,Third Street Garage,1630 3Rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.786936,-122.392127,UDR 399 FREMONT 85,399 Fremont St,San Francisco,CA,94105,1,Unknown,Not specified
+37.798311,-122.409362,CCSF SFMTA,735 Vallejo St,San Francisco,CA,94133,2,Unknown,Not specified
+37.793265,-122.398307,101 CAL PARKING LL1-4AB,101 California St,San Francisco,CA,94111,1,Unknown,Not specified
+37.792826,-122.397675,101 California Street Garage,101 California St,San Francisco,California,94111,1,Unknown,Not specified
+37.792826,-122.397675,101 Second Street Garage,101 Second St.,San Francisco,California,94111,1,Unknown,Not specified
+37.7862909,-122.3914178,Second Street Fund,333 Harrison Street,San Francisco,CA,94105,1,Unknown,Not specified
+37.7944167,-122.3996389,One Embaracadero Center,"One Embaracadero Center, A Level Parking",San Francisco,CA,94111,1,Unknown,Not specified
+37.766239,-122.389711,ARE-ILLINOIS ST STATION 1,1830 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.794122,-122.39908,STATION 1 STATION 2,50 Front St,San Francisco,CA,94111,1,Unknown,Not specified
+37.787602,-122.391911,388 Beale St,388 Beale St,San Francisco,California,94105,1,Unknown,Not specified
+37.767547,-122.388852,CHASE CENTER,1725 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.768009,-122.388651,CHASE CENTER AREA C ZONE 3-1,1725 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.768069,-122.388603,CHASE CENTER BRIDGECLUB 4,1601 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.768141,-122.388552,CHASE CENTER AREA C ZONE 1-3,1601 3rd St,San Francisco,CA,94158,1,Unknown,Not specified
+37.769363,-122.388154,450 SOUTH ST,450 South St,San Francisco,CA,94158,1,Unknown,Not specified
+37.794454,-122.3985089,531404 : Two Embarcadero Center,"Two Embarcadero Center, A Level Parking",San Francisco,CA,94111,1,Unknown,Not specified
+37.788012,-122.391521,BAMC P1 STATION 1,375 Beale St.,San Francisco,CA,94105,1,Unknown,Not specified
+37.787815,-122.391285,Bay Area Metro Center,375 Beale St,San Francisco,CA,94105,3,Unknown,Not specified
+37.793393,-122.396773,CCSF-SFMTA GGG 3,1 California St,San Francisco,CA,94111,1,Unknown,Not specified
+37.767967,-122.387899,CHASE CENTER STATION 20,1 Warriors Way,San Francisco,CA,94158,1,Unknown,Not specified
+37.76801,-122.387845,CHASE CENTER STATION 4,1 Warriors Way,San Francisco,CA,94158,1,Unknown,Not specified
+37.8007726,-122.4205045,Greenwich Street Properties,1275 Greenwich Street,San Francisco,CA,94109,1,Unknown,Not specified
+37.7950272,-122.3985003,Two Embarcadero Center,"Two Embarcadero Center, A Level Parking",San Francisco,CA,94111,1,Unknown,Not specified
+37.7955492936203,-122.398800877558,Maritime Plaza,285 Washington St,San francisco,CA,94111,2,Unknown,Not specified
+37.76505,-122.388478,UCSF CAMPUS 2-S2,590 Illinois St,San Francisco,CA,94107,1,Unknown,Not specified
+37.790344,-122.39221,221 Main Public Parking Garage,221 Main Street,San Francisco,CA,94105,1,Unknown,Not specified
+37.7948167,-122.397348,531402 - Three Embarcadero Center,Three Embarcadero Center,San Francisco,CA,94111,1,Unknown,Not specified
+37.764719,-122.388231,UCSF CAMPUS 1-1,590 Illinois St,San Francisco,CA,94107,1,Unknown,Not specified
+37.769126,-122.386466,CHASE CENTER STATION 2,1 Warriors Way,San Francisco,CA,94158,1,Unknown,Not specified
+37.75077129435073,-122.4337755842854,1333 Castro St,1333 Castro St,San Francisco,California,94114,2,Unknown,Not specified
+37.7951389,-122.3973611,Three Embarcadero Center,"Three Embarcadero Center, A Level Parking",San Francisco,CA,94111,1,Unknown,Not specified
+37.764634,-122.38821,UCSF CAMPUS 1-2,590 Illinois St,San Francisco,CA,94107,1,Unknown,Not specified
+37.765919,-122.387496,ARE-ILLINOIS ST,499 Illinois St,San Francisco,CA,94158,1,Unknown,Not specified
+37.79776,-122.40172,EVgo 350 Pacific Hub,350 Pacific Ave,San Francisco,CA,94111,4,Unknown,Not specified
+37.7593746,-122.3917718,431406 - Avalon Dogpatch,800 Indiana Street,SF,CA,94107,1,Unknown,Not specified
+37.77393,-122.4533,HOSPITAL SMMC SF EV 02,450 Stanyan St,San Francisco,CA,94117,1,Unknown,Not specified
+37.762652,-122.389221,UCSF CAMPUS 2130 3RD ST,2130 3rd St,San Francisco,CA,94107,1,Unknown,Not specified
+37.791744,-122.392746,RINCON CENTER RINCON 1,121 Spear St,San Francisco,CA,94105,1,Unknown,Not specified
+37.774158,-122.453587,HOSPITAL SMMC SF EV 03,450 Stanyan St,San Francisco,CA,94117,1,Unknown,Not specified
+37.791218,-122.392039,SPEAR GARAGE,201 Spear St,San Francisco,CA,94105,1,Unknown,Not specified
+37.7952,-122.3961,Four Embarcadero Center,"Four Embarcadero Center, B Level Parking",San Francisco,CA,94111,1,Unknown,Not specified
+37.789776,-122.389882,HILLS PLAZA HP EV 2,340 Spear St,San Francisco,CA,94105,2,Unknown,Not specified
+37.74723,-122.41995,MMHD,1865 Valencia St,San Francisco,CA,94110,1,Unknown,Not specified
+37.7997284,-122.4351425,CCSF SFMTA,2055 Lombard St,San Francisco,CA,94123,2,Unknown,Not specified
+37.798203,-122.399641,NORTHPARK EQ 750 FRONT S-2,750 Front St,San Francisco,CA,94111,2,Unknown,Not specified
+37.749068,-122.402416,Extra Space Storage,2501 Cesar Chavez,San Francisco,CA,94124,1,Unknown,Free
+37.8050159987199,-122.417274090213,Walgreens - Columbus Ave,1175 Columbus Ave,San Francisco,California,94133,2,Unknown,$ 9.95
+37.80402395203612,-122.42981912255016,Golden Gate National Recreation Area - Fort Mason,1300-1398 Bay St,San Francisco,CA,94123,1,Unknown,0
+37.804677,-122.428903,Fort Mason,101 Fort Mason Dr,San Francisco,CA,94123,1,Unknown,Not specified
+37.8055762,-122.4229471,Fairmont Heritage Place - Tesla,900 N Point St,San Francisco,CA,94109,1,Unknown,Free
+37.805045,-122.428183,Fort Mason,201 Fort Mason Dr,San Francisco,CA,94123,1,Unknown,Not specified
+37.8029,-122.40271,101 LOMBARD ST LEVI'S PLAZA 2,155 Greenwich St,San Francisco,CA,94111,1,Unknown,Not specified
+37.803712,-122.404534,101 LOMBARD ST LEVIS RAPID 2,101 Lombard St,San Francisco,CA,94111,2,Unknown,Not specified
+37.8035066,-122.4035941,101 LOMBARD ST,1425 Sansome St,San Francisco,CA,94111,1,Unknown,Not specified
+37.806046,-122.422422,4A CHARGERS MAIN GARAGE 4A,900 North Point St,San Francisco,CA,94109,1,Unknown,Not specified
+37.80619,-122.4152,Hyatt at Fisherman's Wharf,555 N Point St,San Francisco,CA,94133,1,Unknown,Not specified
+37.806798,-122.419488,Beach & Hyde Garage,655 Beach St,San Francisco,CA,94109,2,Unknown,Not specified
+37.74291,-122.42203,"Safeway 0739 - San Francisco, CA",3350 Mission Street,San Francisco,CA,94110,3,Unknown,Not specified
+37.805408,-122.432211,Golden Gate National Recreation Area - Fort Mason,2 Marina Blvd,San Francisco,CA,94123,1,Unknown,Not specified
+37.763552,-122.457723,UCSF CAMPUS ACC P7 EV2,400 Parnassus Ave,San Francisco,CA,94143,1,Unknown,Not specified
+37.80748,-122.4178309,Anchorage Garage - 500 Beach,500 Beach Street,San Francisco,CA,94133,1,Unknown,Not specified
+37.764017,-122.458463,UCSF Parnassus,500 Parnassus Ave,San Francisco,CA,94143,1,Unknown,Not specified
+37.798185,-122.448715,"San Francisco, CA - Letterman Drive (Pay to Park)",1 Letterman Drive,San Francisco,CA,94129,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.763456,-122.458675,UCSF CAMPUS,500 Parnassus Ave,San Francisco,CA,94122,2,Unknown,Not specified
+37.8067536,-122.4310408,Fort Mason,Building 32,San Francisco,CA,94123,1,Unknown,Not specified
+37.798811,-122.448826,Letterman Digital Arts Center Public,One Letterman Dr Bldg B,San Francisco,CA,94129,1,Unknown,Not specified
+37.744131,-122.43674,Airbnb - Gold Mine - Tesla Destination,10 Gold Mine Dr,San Francisco,CA,94131,1,Unknown,Not specified
+37.808128,-122.41168,PIER 39,2550 Powell Street,San Francisco,CA,94133,1,Unknown,Not specified
+37.79821,-122.45143,257-273 Presidio Blvd,257-273 Presidio Blvd,San Francisco,CA,94129,1,Unknown,
+37.775101,-122.465106,Safeway San Francisco #2646,735 7th Ave,San Francisco,CA,94118,2,Unknown,Not specified
+37.74553,-122.39272,Zum Services Inc - Davidson Ave,1645 Davidson Ave,San Francisco,CA,94124,1,Unknown,Not specified
+37.801464,-122.452078,Thoreau Center,1047 Edie Rd,San Francisco,CA,94129,1,Unknown,
+37.8045,-122.449226,PRESIDIO TRUST MASON 11,1182 Lundeen St,San Francisco,CA,94123,1,Unknown,Not specified
+37.804536,-122.449966,PRESIDIO TRUST MASON 10,1182 Mason St,San Francisco,CA,94123,1,Unknown,Not specified
+37.758251,-122.463074,431402: Avalon Sunset Towers (Shared),8 Locksley Ave,SF,CA,94122,1,Unknown,Not specified
+37.804134,-122.45095,PRESIDIO TRUST MASON 2,1184 Mason St,San Francisco,CA,94123,1,Unknown,Not specified
+37.76926,-122.46805,Music Concourse Dr,Music Concourse Dr,San Francisco,CA,,2,Unknown,Not specified
+37.805726,-122.449579,Golden Gate National Recreation Area - Crissy Field,1199 E Beach,San Francisco,CA,94129,2,Unknown,Not specified
+37.768766,-122.468341,Golden Gate Park - Music Concourse Garage,1 Music Concourse Dr,San Francisco,CA,94118,3,Unknown,Not specified
+37.7866351,-122.4680816,431404: AVA 55 Ninth,55 9th Ave,SF,CA,94118,1,Unknown,Not specified
+37.79969406,-122.4605484,Building 118 Taylor Rd,Building 118 Taylor Rd,San Francisco,California,94129,1,Unknown,Not specified
+37.801043,-122.459516,PRESIDIO TRUST TAYLOR ROAD 4,103 Taylor Rd,San Francisco,CA,94129,1,Unknown,Not specified
+37.7426395,-122.3856749,Plant Construction,300 Newhall Street,San Francisco,CA,94126,1,Unknown,Not specified
+37.73345,-122.409883,Caltrans - District 32,120 Rickard St,San Francisco,CA,94134,1,Unknown,Not specified
+37.731347,-122.400104,Airbnb - Vesta St - Tesla Destination,1 Vesta St,San Francisco,CA,94124,1,Unknown,Not specified
+37.726386,-122.396902,Extra Space Storage,1700 Egbert Ave,San Francisco,CA,94124,1,Unknown,Free
+37.8080383,-122.4709806,983 Marine Dr (US-KYA-CW3-1),983 Marine Dr,San Francisco,CA,94129,1,Unknown,Not specified
+37.725662,-122.395556,Dr. George W. Davis Senior Center,1751 Carroll Ave,San Francisco,CA,94124,1,Unknown,Not specified
+37.8071345,-122.4724722,Lincoln Blvd (US-EZR-58X-1),Lincoln Blvd,San Francisco,CA,94129,1,Unknown,Not specified
+37.725955667,-122.449541,CCSF - Ocean Campus Cloud Circle,50 Frida Kahlo Way,San Francisco,CA,94112,1,Unknown,Not specified
+37.725345,-122.4479295,CCSF - Ocean Campus South Parking Lot,50 Frida Kahlo Way,San Francisco,CA,94112,1,Unknown,Not specified
+37.72491,-122.452746,CCSF - Ocean Campus Multi-Use Building Parking Lot,50 Frida Kahlo Way,San Francisco,CA,94112,1,Unknown,Not specified
+37.72396007318629,-122.45438341872921,Whole Foods,1150 Ocean Ave,San Francisco,CA,94112,3,Unknown,"the first 30 minutes are free which should give an average Tesla about 90 miles of range, please be courteous and let others grab their half an hour as well"
+37.72398,-122.454956,WHOLE FOODS MKT,1150 Ocean Ave,San Francisco,CA,94112,1,Unknown,Not specified
+37.7239842,-122.4556294,431408 : Avalon Ocean Avenue,1200 Ocean Avenue,SF,CA,94112,1,Unknown,Not specified
+37.75397,-122.48867,"Safeway 0985 - San Francisco, CA",2350 Noriega St.,San Francisco,CA,94122,1,Unknown,Not specified
+37.812467,-122.362181,SEC San Francisco,1 Yerba Buena Island,San Francisco,CA,94130,2,Unknown,Not specified
+37.753109654147934,-122.4903283172298,Greenlots - 182016,1886 32ND AVE,SAN FRANCISCO,CA,94122,1,Unknown,Not specified
+37.7520751953125,-122.490081787109,Greenlots - 12950,1St St and Grand Ave,Los Angeles,CA,90012,1,Unknown,Not specified
+37.71823,-122.385519,Alice Griffith Apartments - 2700,"2700 Arelious Walker Dr,",San Francisco,CA,94124,1,Unknown,Not specified
+37.728734,-122.47625,Stonestown Galleria DCFC,3251 20Th Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.72837495,-122.4766977,Stonestown Galleria 03-04,3251 20Th Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.728954191,-122.477707483,Stonestown Galleria Sports Basement,3251 20Th Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.727838,-122.476348,Stonestown Galleria Peet's,3251 20Th Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.749666,-122.49572,St. Ignatius College Preparatory,2001 37th Ave,San Francisco,CA,94116,1,Unknown,Not specified
+37.7266635,-122.47598965,Stonestown Galleria Trader Joes,3251 20Th Ave,San Francisco,CA,94132,3,Unknown,Not specified
+37.726656,-122.475999,Trader Joe's,265 Winston Dr,San Francisco,CA,94132,1,Unknown,Not specified
+37.7113249,-122.3928668,301 Executive Park Blvd,301 Executive Park Blvd,San Francisco,California,94124,1,Unknown,Not specified
+37.782007,-122.505051,Department of Veterans Affairs VISN 21,4150 Clement St,San Francisco,CA,94121,1,Unknown,Not specified
+37.78497,-122.50557,680 Point Lobos Ave (US-6ZD-X6E-2),680 Point Lobos Ave,San Francisco,CA,94121,1,Unknown,Not specified
+37.73241,-122.48944,Lakeshore Plaza,4258 Ocean Avenue,San Francisco,CA,94132,2,Unknown,Not specified
+37.724766,-122.481042,1600 Holloway Ave.,1600 Holloway Ave.,San Francisco,CA,94132,1,Unknown,Not specified
+37.720848,-122.477023,San Francisco State University,1600 Holloway Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.723921,-122.481347,SFSTATE LOT 20 19,1600 Holloway Ave,San Francisco,CA,94132,1,Unknown,Not specified
+37.74159622,-122.4984283,3001 Taraval St,3001 Taraval St,San Francisco,California,94116,2,Unknown,Not specified
+37.77158,-122.50907,Safeway San Francisco #0785 - 850 La Playa,850 La Playa St,San Francisco,CA,94121,2,Unknown,Not specified
+37.7165375,-122.473877,PARKMERCED,125 Cambon Dr,San Francisco,CA,94132,1,Unknown,Not specified
+37.7157048,-122.4734916,PARKMERCED,150 Font Blvd,San Francisco,CA,94132,1,Unknown,Not specified
+37.715233,-122.472778,PARKMERCED F0100PMTOWER2G,100 Font Blvd,San Francisco,CA,94132,1,Unknown,Not specified
+37.7801861,-122.5117904,680 Point Lobos Ave (US-6ZD-X6E-1),680 Point Lobos Ave,San Francisco,CA,94121,1,Unknown,Not specified
+37.707491,-122.458093,"Walgreens - Daly City, CA#5365 |P866",6100 Mission Street,Daly City,CA,94014,1,Unknown,Not specified
+37.7138881,-122.4725592,PARKMERCED,55 Chumasero Dr,San Francisco,CA,94132,1,Unknown,Not specified
+37.72080994,-122.483963,310 Arballo Dr,310 Arballo Dr,San Francisco,California,94132,1,Unknown,Not specified
+37.71764374,-122.4809494,750 Gonzalez Dr,750 Gonzalez Dr,San Francisco,California,94132,1,Unknown,Not specified
+37.8376368,-122.4794232,Cavallo Point Lodge - Tesla,601 Murray Ave,Sausalito,CA,94965,1,Unknown,Free
+37.73313,-122.505159,San Francisco Zoo,Sloat BLVD & Great Hwy,San Francisco,California,94132,1,Unknown,Not specified
+37.69283,-122.41463,475 Mission Blue Drive,475 Mission Blue Dr,Brisbane,CA,94005,1,Unknown,Not specified
+37.69209,-122.42348,San Francisco - Page One Automotive,211 S Hill Dr,Brisbane,CA,94005,1,Unknown,Not specified
+37.7011118,-122.469811,DC Station,2001 Juniperro Serra Blvd.,Daly City,CA,94014,1,Unknown,Not specified
+37.698288,-122.463339,Lucky,6843 Mission St,Daly City,CA,94014,3,Unknown,Not specified
+37.6976637,-122.4627305,Lucky Daly City,"6843 Mission Blvd Daly City, CA",San Francisco,California,94014,2,Unknown,9.95 $
+37.6965906385127,-122.463111242177,"Daly City, CA - Mission Street",6917 Mission Street,Daly City,CA,94014,1,Unknown,Not specified
+37.784173,-122.309084,Rock Wall Wine Company,2301 Monarch St,Alameda,CA,94501,1,Unknown,Not specified
+37.68682,-122.40301,50 Park Place,50 Park Pl,Brisbane,CA,94005,1,Unknown,Not specified
+37.68637,-122.40256,Brisbane Station,50 Park Pl,Brisbane,CA,94005,1,Unknown,Not specified
+37.6906275,-122.4591583,JEFFERSON,550 E Market St,Daly City,CA,94014,1,Unknown,Not specified
+37.699951,-122.483575,Westlake Shopping Center,75 Southgate Ave,Daly City,CA,94015,3,Unknown,Not specified
+37.6857101,-122.3995539,BRISBANEVILLAGE,108 Old County Rd,Brisbane,CA,94005,2,Unknown,"Through Aug 31: First 45 minutes free, $5/hr after. Effective September 1: $0.20/kWh + $5/hour after 45 minutes."
+37.690104,-122.461762,Westlake Shopping Center - Daly City,Westlake Shopping Center - Daly City,San Francisco,California,94015,2,Unknown,9.95 $
+37.8570477,-122.481192,Casa Madrona,801 Bridgeway,Sausalito,California,94965,1,Unknown,Free
+37.777642,-122.29806,CIVIC CENTER FERRY SNG 2,1701 Ferry Point Rd,Alameda,CA,94501,1,Unknown,Not specified
+37.822527,-122.310246,Caltrans - District 4,200 Burma Rd,Oakland,CA,94607,1,Unknown,Not specified
+37.685316,-122.475803,JEFFERSON JEFFERSON MPB,305 Eastmoor Ave,Daly City,CA,94015,1,Unknown,Not specified
+37.812639,-122.300714,PACIFIC CANNERY STATION 57,1201 Pine St,Oakland,CA,94607,1,Unknown,Not specified
+37.812468,-122.300621,PACIFIC CANNERY STATION 01-02,1201 Pine St,Oakland,CA,94607,1,Unknown,Not specified
+37.812868,-122.300552,PACIFIC CANNERY STATION 32-33,1201 Pine St,Oakland,CA,94607,1,Unknown,Not specified
+37.81242,-122.30031,PACIFIC CANNERY STATION 62-63,1201 Pine St,Oakland,CA,94607,1,Unknown,Not specified
+37.67671,-122.38543,Ultragenyx-Brisbane,5000 Marina Blvd,Brisbane,CA,94005,1,Unknown,Not specified
+37.677,-122.456773,Honda of Serramonte,485 Serramonte Boulevard,Colma,CA,94014,2,Unknown,Not specified
+37.676942,-122.459308,Town of Colma,1198 El Camino,Colma,CA,94014,2,Unknown,Not specified
+37.67516,-122.38429,CBRE8000 STATION 3,2000 Sierra Point Parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.674324,-122.388117,Genesis Marina,3000-3500 Marina Boulevard,Brisbane,CA,94005,1,Unknown,Not specified
+37.675067,-122.384289,CBRE8000 STATION 4,2000 Sierra Point Parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.674859,-122.384305,CBRE8000 STATION 7,2000 Sierra Point Parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.674738474886,-122.38415282195,Sierra Point Towers,8000 Marina Boulevard,Brisbane,CA,94005,1,Unknown,Not specified
+37.8748518,-122.4576151,The Lodge At Tiburon,1651 Tiburon BLVD,Tiburon,California,94920,1,Unknown,Not specified
+37.674475,-122.458167,KOHL'S - CHPT 0981 COLMA 2,245 Collins Ave,Colma,CA,94014,1,Unknown,Not specified
+37.673399,-122.384764,THE SHORE THE SHORE 11,1400 Sierra Point Pkwy,Brisbane,CA,94005,1,Unknown,Not specified
+37.673164,-122.385144,THE SHORE THE SHORE 10,1600  Sierra Point Pkwy,Brisbane,CA,94005,1,Unknown,Not specified
+37.673475,-122.382523,THE SHORE THE SHORE 16,800 Sierra Point Parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.672565,-122.386115,THE SHORE THE SHORE 9,1800 Sierra Point Parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.67329,-122.382523,THE SHORE THE SHORE 15,1000 Sierra Point Pkwy,Brisbane,CA,94005,1,Unknown,Not specified
+37.6733629,-122.3816357,BRISBANE MARINA,400 Sierra Point Pkwy,Brisbane,CA,94005,1,Unknown,Not specified
+37.87456512,-122.4660645,450 San Rafael Ave,450 San Rafael Ave,Tiburon,California,94920,2,Unknown,Not specified
+37.67232,-122.382971,THE SHORE THE SHORE 8,1000 Sierra point parkway,Brisbane,CA,94005,1,Unknown,Not specified
+37.8351355,-122.5312068,Bunker Road,2000 Bunker Road,Sausalito,ca,94965,1,Unknown,$0.49/kWh+$0.10/min; other tariffs available
+37.67415985,-122.46554175,Serra Shopping Center,5001 Junipero Serra Blvd,Colma,CA,94014,1,Unknown,Not specified
+37.877349,-122.461164,Belvedere Tiburon Library,1501 Tiburon Blvd.,Belvedere,CA,94920,1,Unknown,Not specified
+37.669887,-122.388425,ACTELION,5000 Shoreline Ct,South San Francisco,CA,94080,1,Unknown,Not specified
+37.669094,-122.390486,MITTEN ROAD,7000 Shoreline Ct,South San Francisco,CA,94080,1,Unknown,Not specified
+37.678723,-122.4844253,JEFFERSON,101 Lincoln Ave,Daly City,CA,94015,1,Unknown,Not specified
+37.673993,-122.472065,Serramonte Center - Tesla Supercharger,3 Serramonte Center,Daly City,CA,94015,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.671267,-122.463541,Nissan of Serramonte,1500 Collins Ave,Colma,CA,94014,2,Unknown,Not specified
+37.86525726,-122.4977951,2330 Marinship Way,2330 Marinship Way,Sausalito,California,94965,2,Unknown,Not specified
+37.673435,-122.4716325,Serramonte Center Macy's,3 Serramonte Center,Daly City,CA,94015,1,Unknown,Not specified
+37.66779052951845,-122.3831347543609,395 Oyster Point Marina Plaza,395 Oyster Point Boulevard,South San Francisco,CA,94080,1,Unknown,Not specified
+37.78958,-122.28003,"Target T2829 - Alameda, CA",2700 5th Street,Alameda,CA,94501,1,Unknown,Not specified
+37.670582791616866,-122.47229167342829,Serramonte Center Target,3 Serramonte Center,Daly City,CA,94015,1,Unknown,
+37.838825,-122.301789,KBS CHARGE STATION 2,2000 Powell St,Emeryville,CA,94608,1,Unknown,Not specified
+37.663538,-122.396719,THE COVE EV GL1 8,121 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.663461,-122.396614,THE COVE EV GL1 6,121 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.664203,-122.391043,Britannia Oyster Point II Business Plaza,329 Oyster Point Boulevard,South San Francisco,CA,94080,1,Unknown,Not specified
+37.663411,-122.396517,THE COVE EV GL1 7,121 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.663367,-122.39652,THE COVE EV GL1 9,121 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.663627,-122.394303,THE COVE EV,151 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.664211,-122.390191,THE COVE EV 181 OYSTER 3,181 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.664201,-122.390202,THE COVE EV 181 OYSTER 2,181 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.7768924,-122.2762824,CIRCLE K,1716 Webster St,Alameda,CA,94501,1,Unknown,Not specified
+37.838165,-122.300676,Tower at Emeryville,2000 Powell St,Emeryville,CA,94608,1,Unknown,Not specified
+37.6655539,-122.3824533,Oyster Point Marina Plaza,"400 Oyster Point , B1, #117",South San Francisco,CA,94080,1,Unknown,Not specified
+37.663476,-122.393748,THE COVE EV 171 OYSTER 8,171 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.663384,-122.393794,THE COVE EV 171 OYSTER 2,171 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.668825,-122.469974,"M DALY, INC STATION 3",505 Serramonte Blvd,Daly City,CA,94015,1,Unknown,Not specified
+37.663039,-122.39466,THE COVE EV 151 OYSTER 4,151 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.6624972,-122.3970185,THE COVE EV,271-299 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.662144,-122.396416,THE COVE EV GL1 1,101 Oyster Point Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.830061,-122.29203,IKEA USA EMERYVILLE 1,4400 Shellmound St,Emeryville,CA,94608,1,Unknown,Not specified
+37.800232,-122.277739,ALAMEDA 7TH 4K 004,551-599 7th St,Oakland,CA,94607,1,Unknown,Not specified
+37.8393639,-122.2989698,2100 Powell,2100 Powell Street,Emeryville,CA,94608,1,Unknown,Not specified
+37.7981773,-122.2769619,Jack London Square,409 Washington St.,Oakland,CA,94607,3,Unknown,Not specified
+37.831159,-122.292474,IKEA - Emeryville,4400 Shellmound St.,Emeryville,CA,94608,1,Unknown,Not specified
+37.800716,-122.277412,ALAMEDA,585 7th St,Oakland,CA,94607,1,Unknown,Not specified
+37.799351,-122.27653,CITY OF OAKLAND,501 6th St,Oakland,CA,94607,1,Unknown,Not specified
+37.7853956,-122.2738071,1201 Marina Village Parkway,1201 Marina Village Parkway,Alameda,CA,94501,1,Unknown,Not specified
+37.803158,-122.277565,601CITYCENTEREV 601 CTY GW2,601 12th Street,Oakland,CA,94607,1,Unknown,Not specified
+37.800267,-122.276678,ALAMEDA,551-599 7th St,Oakland,CA,94607,2,Unknown,Not specified
+37.7949137,-122.2749831,Modera JL Square,378 Embcarcadero West,Oakland,CA,94607,1,Unknown,Not specified
+37.799319,-122.275884,CITY OF OAKLAND PAB OPD4,501 6th St,Oakland,CA,94607,1,Unknown,Not specified
+37.799311,-122.275863,CITY OF OAKLAND PAB OPD3,501 6th St,Oakland,CA,94607,1,Unknown,Not specified
+37.660128,-122.397626,701 Gateway - San Francisco,701 Gateway Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.7870484,-122.2732755,1210 Marina Village Parkway,1210 Marina Village Parkway,Alameda,CA,94501,1,Unknown,Not specified
+37.837493,-122.295505,"Emeryville, Ca - Powell Street Plaza Supercharger",5795 Christie Avenue,Emeryville,CA,94608,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.802331,-122.276489,OLD TOWN SQUARE STATION 40-41,592 9th St,Oakland,CA,94607,1,Unknown,Not specified
+37.803258,-122.276778,Oakland - Lafayette Square,610 E 10th St,Oakland,CA,94606,2,Unknown,Not specified
+37.8366845,-122.294625,Powell Street Plaza,5701-5795 Christie Ave,Emeryville,CA,94608,1,Unknown,Not specified
+37.802122,-122.275978,OLD TOWN SQUARE STATION 97-98,560 9th St,Oakland,CA,94607,1,Unknown,Not specified
+37.7860383,-122.2724855,1100 Marina Village Parkway,1100 Marina Village Parkway,Alameda,CA,94501,1,Unknown,Not specified
+37.6591478,-122.4009526,531409 : 631 Gateway,631 Gateway Boulevard,South San Francisco,CA,94080,1,Unknown,Not specified
+37.833765134,-122.291804229,Bay Street,5616 Bay St,Emeryville,CA,94608,1,Unknown,Not specified
+37.802357,-122.275741,OLD TOWN SQUARE STATION 57-58,901 Clay St,Oakland,CA,94607,1,Unknown,Not specified
+37.784828981937295,-122.27192269081507,Marina Village,1001 Marina Village Pkwy,Alameda,CA,94501,5,Unknown,Not specified
+37.804294,-122.276111,601CITYCENTEREV 601 CITY NGW1,601 12th St,Oakland,CA,94607,1,Unknown,Not specified
+37.804813,-122.275541,CITY OF OAKLAND,1260 Martin Luther King Jr Way,Oakland,CA,94612,1,Unknown,Not specified
+37.65831,-122.399556,Gateway Blvd,"601 Gateway Boulevard, Suite 930",South San Francisco,CA,94080,1,Unknown,Not specified
+37.83803,-122.29375,FOUR POINTS BY STATION 1,1603 Powell St,Emeryville,CA,94608,1,Unknown,Not specified
+37.794181,-122.272388,"Oakland, Ca - 2ND Street Supercharger",255 2ND Street,Oakland,CA,94607,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.76414,-122.27101,SSA SOUTHSHORE APT5,909 Shorepoint Ct,Alameda,CA,94501,1,Unknown,Not specified
+37.6577593,-122.4016102,Two Corporate Drive,Corporate Drive,South San Francisco,CA,94080,1,Unknown,Not specified
+37.83867,-122.29369,1603 Powell St,1603 Powell St,Emeryville,California,94608,2,Unknown,Not specified
+37.7635,-122.270676,SSA SOUTHSHORE APT1,934 Shorepoint Ct,Alameda,CA,94501,1,Unknown,Not specified
+37.763596,-122.27061,SSA SOUTHSHORE APT3,934 Shorepoint Ct,Alameda,CA,94501,1,Unknown,Not specified
+37.7940945,-122.2718434,55 HARRISON,255 2nd St,Oakland,CA,94607,1,Unknown,Not specified
+37.794095,-122.271843,55 HARRISON MARKET GARAGE,255 2nd St,Oakland,CA,94607,1,Unknown,Not specified
+37.7806264,-122.2699082,960 Atlantic Avenue,960 Atlantic Avenue,Alameda,CA,94501,1,Unknown,Not specified
+37.840281,-122.294041,"Emeryville, Ca Supercharger",5959 Shellmound Street,Emeryville,CA,94608,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.842947,-122.296292,ESSEX,6399 Christie Ave,Emeryville,CA,94608,1,Unknown,Not specified
+37.656823,-122.402624,CBRE 1CORPORATE DR 1,1 Corporate Dr,South San Francisco,CA,94080,1,Unknown,Not specified
+37.656204,-122.411246,Miller Garage HPCP Array 1,329 Miller Ave,South San Francisco,CA,94080,2,Unknown,Not specified
+37.65611649,-122.4109802,Miller Avenue Garage,329 Miller Ave,South San Francisco,California,94080,2,Unknown,Not specified
+37.663088,-122.470818,Serramonte Main Library,40 Wembley Dr,Daly City,CA,94015,2,Unknown,Not specified
+37.83963,-122.292879,Hyatt House Emeryville/San Francisco Bay Area,5800 Shellmound St,Emeryville,California,94608,1,Unknown,Not specified
+37.656377,-122.403687,CBRE 225 GATEWAY 6,225 Gateway Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.656805,-122.399173,Home2 Suites By Hilton - South San Francisco,555 Gateway BLVD,South San Francisco,California,94080,1,Unknown,Not specified
+37.802805,-122.272679,Greenlots - 53239,1111 Broadway,Oakland,CA,94607,2,Unknown,Not specified
+37.656258,-122.402727,CBRE 2CORPORATE DR 3,2 Corporate Dr,South San Francisco,CA,94080,1,Unknown,Not specified
+37.6561623,-122.4036319,225 Gateway Blvd/Service Decline,225 Gateway Boulevard,South San Francisco,CA,94080,1,Unknown,Not specified
+37.656229,-122.402684,CBRE 2CORPORATE DR 2,2 Corporate Dr,South San Francisco,CA,94080,1,Unknown,Not specified
+37.6589638,-122.38294,S SAN FRANCISCO,632 Forbes Blvd,South San Francisco,CA,94080,3,Unknown,Not specified
+37.65613,-122.402521,CBRE 2CORPORATE DR 1,2 Corporate Dr,South San Francisco,CA,94080,1,Unknown,Not specified
+37.656256,-122.400699,"Hampton Inn - Sri Ram Ent, Inc",300 Gateway Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.805546,-122.273068,City Center Oakland,525 14th Street,Oakland,CA,94612,1,Unknown,Not specified
+37.841589,-122.293438,5959 Shellmound,5959 Shellmound,Emeryville,CA,94608,1,Unknown,Not specified
+37.806447,-122.273154,DGS Lot 6,1515 Clay St,Oakland,CA,94612,1,Unknown,Not specified
+37.800279,-122.271237,CITY OF OAKLAND,364 9th St,Oakland,CA,94607,3,Unknown,Not specified
+37.842392,-122.294069,PUBLIC MARKET STATION 1,6201 Shellmound St,Emeryville,CA,94608,1,Unknown,Not specified
+37.655672,-122.403698,CBRE 201 GATEWAY 2,225 Gateway Blvd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.6555795,-122.4031008,201 Gateway Blvd,201 Gateway Boulevard,South San Francisco,CA,94080,1,Unknown,Not specified
+37.655559,-122.401558,"South San Francisco, Ca Supercharger",250 Gateway Boulevard,South San Francisco,CA,94080,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.806119,-122.272404,CITY OF OAKLAND FRANK OGAWA2,250 Frank H Ogawa Plaza Parking Level P2,Oakland,CA,94612,1,Unknown,Not specified
+37.806188,-122.272338,CITY OF OAKLAND FRANK OGAWA3,250 Frank H Ogawa Plaza Parking Level P2,Oakland,CA,94612,1,Unknown,Not specified
+37.842493,-122.293141,PUBLIC MARKET STATION 2,6201 Shellmound St,Emeryville,CA,94608,1,Unknown,Not specified
+37.655669,-122.396391,233 E GRAND NEXUS PG-L1.4,328 Roebling Rd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.8441095,-122.2940241,Public Market - Emeryville,"5959 Shellmound St. Emeryville, CA",Emeryville,California,94608,2,Unknown,$9.95
+37.65527,-122.39667,233 E GRAND NEXUS PG-L3.2,328 Roebling Rd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.7802739,-122.2661863,1010 Atlantic Ave,1010 Atlantic Avenue,Alameda,CA,94501,1,Unknown,Not specified
+37.804916,-122.270559,ENERGY SOLUTION TEST SAMPLE 003,449 15th Street,Oakland,CA,94612,1,Unknown,Not specified
+37.805065,-122.27058,ENERGY SOLUTION TEST SAMPLE 002,449 15th Street,Oakland,CA,94612,1,Unknown,Not specified
+37.842392,-122.29164,WAREHAM 6100 1,6100 Horton St,Emeryville,CA,94608,1,Unknown,Not specified
+37.842321,-122.291579,WAREHAM 6100 6,6100 Horton St,Emeryville,CA,94608,1,Unknown,Not specified
+37.842231,-122.291363,WAREHAM 6100 4,6100 Horton St,Emeryville,CA,94608,1,Unknown,Not specified
+37.842502,-122.291576,WAREHAM 6100 5,6100 Horton St,Emeryville,CA,94608,1,Unknown,Not specified
+37.842432,-122.291508,WAREHAM 6100 2,6100 Horton St,Emeryville,CA,94608,1,Unknown,Not specified
+37.872884,-122.510535,"Marin City, Ca - Donahue Street Supercharger",190 Donahue Street,Marin City,CA,94965,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.654824,-122.39396,PAID STATION SSF-EGAPSA-10,406 Cabot Rd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.806488,-122.270401,CARCHARGING,1611 Telegraph Ave,Oakland,CA,94612,2,Unknown,Not specified
+37.656311,-122.383669,PRIVATE GNE B35-10,350 DNA Way,South San Francisco,CA,94080,1,Unknown,Not specified
+37.8728277,-122.5114169,MARIN GATEWAY,190 Donahue St,Sausalito,CA,94965,1,Unknown,Not specified
+37.655969,-122.383881,PRIVATE GNE B35-2,350 DNA Way,South San Francisco,CA,94080,1,Unknown,Not specified
+37.655934,-122.383901,PRIVATE GNE B35-1,350 DNA Way,South San Francisco,CA,94080,1,Unknown,Not specified
+37.806165,-122.269465,17TH & BROADWAY STATION L3 - 3,447 17th St,Oakland,CA,94612,1,Unknown,Not specified
+37.806194,-122.269435,17TH & BROADWAY STATION L2,447 17th St,Oakland,CA,94612,1,Unknown,Not specified
+37.833413343019,-122.282991751381,1215 45th St,1215 45th St,Emeryville,California,94608,1,Unknown,Not specified
+37.656395,-122.37947,PRIVATE GNE,350 DNA Way,South San Francisco,CA,94080,1,Unknown,Not specified
+37.653252,-122.399342,POINTE GRAND 220 EG STN 1,220 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.835118,-122.283766,AC Transit - OpConnect,1177 47th St,Emeryville,CA,94608,1,Unknown,Not specified
+37.8645697,-122.3128646,CITYOFBERKELEY,235 University Ave,Berkeley,CA,94710,1,Unknown,Not specified
+37.845358,-122.291794,B971 Gov Charging 1,6401 Hollis St,Emeryville,CA,94608,1,Unknown,Not specified
+37.653809,-122.39031,PRIVATE GNE B73-1,510 Cabot Rd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.77132,-122.26318,1400 Sherman St,1400 Sherman St,Alameda,CA,94501,1,Unknown,Not specified
+37.7799788,-122.2630286,Wind River,Wind River Way,Alameda,CA,94501,1,Unknown,Not specified
+37.65286,-122.393148,CBRE,285 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.8074352,-122.2680492,Kaiser Oakland Admin - 410 19th St. |P975,410 19th Street,Oakland,CA,94612,1,Unknown,Not specified
+37.806087,-122.267307,DOUGLAS PARKING STATION 2,1717 Webster St,Oakland,CA,94612,1,Unknown,Not specified
+37.806121,-122.267317,DOUGLAS PARKING STATION 3,1717 Webster St,Oakland,CA,94612,1,Unknown,Not specified
+37.851248,-122.295087,Siemens Healthcare,725 Potter St,Berkeley,CA,94710,1,Unknown,Not specified
+37.801004,-122.265479,ALCO STATIONS FAST CHARGER,165 13th St,Oakland,CA,94612,2,Unknown,Not specified
+37.805733,-122.266824,ZO STATION 01,330 17th St,Oakland,CA,94612,1,Unknown,Not specified
+37.800727,-122.265291,ALCO STATIONS,165 13th St,Oakland,CA,94612,4,Unknown,Not specified
+37.83268,-122.27974,BOA Emeryville CA4-137,4120 San Pablo Avenue,Emeryville,CA,94608,1,Unknown,Not specified
+37.80932,-122.267553,Kaiser Oakland Admin - 2000 Broadway,2000 Broadway,Oakland,CA,94612,1,Unknown,Not specified
+37.65335,-122.38116,PRIVATE GNE,353 Point San Bruno Blvd,South San Francisco,CA,94080,3,Unknown,Not specified
+37.795402,-122.262753,Laney College,900 Fallon St,Oakland,CA,94607,1,Unknown,Not specified
+37.812782,-122.26795,DENIZENAPTS DENIZEN1,2323 Valley St,Oakland,CA,94612,1,Unknown,Not specified
+37.812626,-122.26786,DENIZENAPTS DENIZEN2,2323 Valley St,Oakland,CA,94612,1,Unknown,Not specified
+37.8057657,-122.2652009,Kaiser Oakland Admin - 1800 Harrison,1800 Harrison Street,Oakland,CA,94612,1,Unknown,Not specified
+37.8067169,-122.26548,CARCHARGING,1901 Harrison St,Oakland,CA,94612,2,Unknown,Not specified
+37.6496413,-122.4042951,Hotel Focus SFO,111 Mitchell Avenue,South San Francisco,CA,94080,1,Unknown,Not specified
+37.650723,-122.393229,CBRE 180 KIMBALL 1,180 Kimball Way,South San Francisco,CA,94080,1,Unknown,Not specified
+37.652154,-122.382574,PRIVATE GNE,450 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.807782,-122.265119,Lake Merritt Plaza,1999 Harrison Street,Oakland,CA,94612,1,Unknown,Not specified
+37.652034,-122.381982,PRIVATE GNE PSA-8,450 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.8052943,-122.2639631,Lake Park Garage,1850 Alice ST,Oakland,CA,94612,1,Unknown,Not specified
+37.864414,-122.305478,EBRPD EASTSHORE BRK 1,West Frontage Road at University Avenue McLau,Berkeley,CA,94720,1,Unknown,Not specified
+37.884242,-122.501416,475 E Strawberry Dr,475 E Strawberry Dr,Mill Valley,California,94941,2,Unknown,Not specified
+37.810953,-122.26492,Caltrans - District 4,111 Grand Ave,Oakland,CA,94612,1,Unknown,Not specified
+37.647798,-122.407022,Park 'N Fly,160 Produce Ave S,San Francisco,CA,94080,1,Unknown,Not specified
+37.884559,-122.501939,CLUB@HARBOR PNT STATION 2,475 E Strawberry Dr,Mill Valley,CA,94941,1,Unknown,Not specified
+37.81267929,-122.2650681,YMCA Garage-Ace,2353 Webster St,Oakland,CA,94612,1,Unknown,Not specified
+37.650323,-122.383724,PRIVATE GNE PSB-2,625 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.650313,-122.383669,PRIVATE GNE PSB-1,625 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.792468,-122.259155,Peralta College,333 E 8th St,Oakland,CA,94606,2,Unknown,Not specified
+37.810716,-122.263905,Lake Merritt Tower,155 Grand Ave,Oakland,CA,94612,2,Unknown,Not specified
+37.815672,-122.265742,Downtown Auto Center,4145 Broadway,Oakland,CA,94611,1,Unknown,Not specified
+37.855629,-122.293516,BAYER STATION LOT AA 11,7th St. at Grayson St,Berkeley,CA,94710,1,Unknown,Not specified
+37.649883,-122.383271,PRIVATE GNE PSB-9,625 E Grand Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.64676,-122.42894,ChargeNet Taco Bell,465 El Camino Real,South San Francisco,CA,94080,3,Unknown,Not specified
+37.64956,-122.38404,451 E Jamie Ct,451 E Jamie Ct,South San Francisco,California,94080,2,Unknown,Not specified
+37.8521253,-122.2889822,Ashby Plaza,1025 Ashby Ave,Berkeley,CA,94710,1,Unknown,Not specified
+37.853335,-122.290127,HEINZ GARAGE,920 Heinz Ave,Berkeley,CA,94710,1,Unknown,Free
+37.853335,-122.290127,HEINZ GARAGE,920 Heinz Ave,Berkeley,CA,94710,1,Unknown,Not specified
+37.648745,-122.452754,SFBENZ SSF MBSF STATION 8,2233 Gellert Blvd,South San Francisco,CA,94080,2,Unknown,Not specified
+37.850452,-122.286958,FOUNDRY3100 FOUNDRY1,3100 San Pablo Ave,Berkeley,CA,94702,1,Unknown,Not specified
+37.648728,-122.383267,SCAVENGER SSF SCAVENGER,500 E Jamie Ct,South San Francisco,CA,94080,1,Unknown,Not specified
+37.820386,-122.265444,ALTABATESSUMMIT PCP GAR B2 N,435 Hawthorne Ave PCP Garage,Oakland,CA,94609,1,Unknown,Not specified
+37.813032,-122.262285,VESPR RG - VESPR 13,312 24th St,Oakland,CA,94612,1,Unknown,Not specified
+37.8160149,-122.2634295,Oakland Volkswagen,2740 Broadway ,Oakland,California,94612,1,Unknown,$0.20/minute
+37.646425,-122.394272,CBRE EDGEWATER 2,300 Littlefield Ave,South San Francisco,CA,94080,1,Unknown,Not specified
+37.821006,-122.265465,ALTABATESSUMMIT,435 Hawthorne Ave,Oakland,CA,94609,1,Unknown,Not specified
+37.816651,-122.262942,Broadstone Axis,2820 Broadway,Oakland,CA,94611,1,Unknown,Not specified
+37.8226414,-122.2655652,3400 Telegraph Ave,3400 Telegraph Ave,Oakland,CA,94609,1,Unknown,Not specified
+37.8663298,-122.300963,431405 : Avalon Berkeley (Shared),651 Addison Street,Berkeley,CA,94710,1,Unknown,Not specified
+37.8574194,-122.2902654,Kaiser Pardee Parking Lot,1010 Carleton Street,Berkeley,CA,94710,1,Unknown,Not specified
+37.81333,-122.26058,Whole Foods Market,230 Bay Pl,Oakland,CA,94612,2,Unknown,Not specified
+37.821428,-122.264027,ALTABATESSUMMIT LEVEL C,451 34th STREET MERRITT GARAGE,Oakland,CA,94609,1,Unknown,Not specified
+37.644083016897255,-122.40393384955064,EV Range - SFO,"373 S Airport Blvd, ","South San Francisco, ",CA,94080,2,Unknown,$0.47 / kWh
+37.645874,-122.452044,Safeway South San Francisco #3116,2255 Gellert Blvd,South San Francisco,CA,94080,3,Unknown,Not specified
+37.7761751913388,-122.252344967774,Alameda Municipal Power - Free Level 3 Charging,2000 Grand St,Alameda,Alameda County,94501,2,Unknown,Free
+37.8581676,-122.2896452,Kaiser - Medical Office Building (MOB) Berkeley,2621 Tenth Street,Berkeley,CA,94710,1,Unknown,Not specified
+37.8672054,-122.299215,FOURTH STREET,1914 4th Street,Berkeley,CA,94710,1,Unknown,Not specified
+37.7568664,-122.2531034,Alameda South Shore Center,2210 South Shore Center,Alameda,CA,94501,1,Unknown,Not specified
+37.868356,-122.299916,FOURTH STREET,1916 5th Street,Berkeley,CA,94710,1,Unknown,Not specified
+37.788073,-122.252071,HOMEWOOD SUITES,1103 Embarcadero,Oakland,CA,94606,1,Unknown,Not specified
+37.820419,-122.261344,Nissan of Oakland,2735 Broadway,Oakland,CA,94611,2,Unknown,Not specified
+37.86766,-122.29818,Aquatic 2,814 University Ave,Berkeley,CA,94710,1,Unknown,Not specified
+37.87308489837231,-122.30507745615361,Extra Space Storage,601 Cedar St,Berkeley,CA,94710,1,Unknown,Free
+37.79966,-122.25313,"Lucky 736 - Oakland, CA",247 East 18th Street,Oakland,CA,94606,1,Unknown,Not specified
+37.783582,-122.249498,BASE Alameda 2,42 Eagle Rd,Alameda,CA,94501,2,Unknown,Not specified
+37.79953,-122.25192,301 East 18th Street,301 East 18th Street,Oakland,CA,94606,1,Unknown,Not specified
+37.8226947,-122.2596203,Kaiser Oakland 3510 Broadway,3510 Broadway,Oakland,CA,94611,1,Unknown,Not specified
+37.8253573,-122.2609134,Kaiser - Oakland Dependency Clinic,380 West MacArthur Boulevard,Oakland,CA,94609,1,Unknown,Not specified
+37.894729,-122.4998918,THE COVE,96 Barbaree Way,Tiburon,CA,94920,1,Unknown,Not specified
+37.756611,-122.249282,"Alameda, Ca Supercharger",523 South Shore Center West,Alameda,CA,94501,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.895247,-122.499965,THE COVE 01TCBARB2NG,41 Barbaree Way,Belvedere Tiburon,CA,94920,1,Unknown,Not specified
+37.638982,-122.398497,UNITED AIRLINES,182-394 N Access Rd,South San Francisco,CA,94080,1,Unknown,Not specified
+37.895951,-122.50054,THE COVE 01TCLEASING2G,50 Barbaree Way,Belvedere Tiburon,CA,94920,1,Unknown,Not specified
+37.63756520753884,-122.42070242359611,Chase San Bruno,1200 El Camino Real,San Bruno,CA,94066 ,3,Unknown,Not specified
+37.785814,-122.246167,Best Western Plus - Bayside Hotel,1717 Embarcadero,Oakland,CA,94606,1,Unknown,Not specified
+37.90537392873854,-122.3649674214441,Port of Richmond,1322 Canal Blvd,Richmond,CA,94804,1,Unknown,Not specified
+37.897149,-122.499156,THE COVE 01TCCAPTAIN2G,12 Greenwood Cove Dr,Tiburon,CA,94920,1,Unknown,Not specified
+37.8259611,-122.257787,Kaiser Oakland 3751 Broadway |P3567,3751 Broadway,Oakland,CA,94611,1,Unknown,Not specified
+37.637894,-122.393375,UNITED AIRLINES SFOMP 1,797 N Field Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.869385,-122.290889,CURBSIDE WEST LIBRARY,1125 University Ave,Berkeley,CA,94702,1,Unknown,Not specified
+37.636189,-122.420257,The Shops at Tanforan - Tesla Supercharger,1150 El Camino Real,San Bruno,CA,94066,1,Unknown,Not specified
+37.637586,-122.393174,UNITED AIRLINES SFOMP 4,797 N Field Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.636483,-122.402106,CCSF - SFO SFO LTP 1L.42,806 S Airport Blvd Long Term Garage 2,San Francisco,CA,94128,1,Unknown,Not specified
+37.6365787,-122.4006054,CCSF - SFO,806 S Airport Blvd,San Francisco,CA,94130,1,Unknown,Not specified
+37.76514,-122.24384,1416 Oak St,1416 Oak St,Alameda,California,94501,2,Unknown,Free w/ paid parking 9-5
+37.63559,-122.420259,"San Bruno, CA - El Camino Real (Wall Connector) - Tesla Destination",1150 El Camino Real,San Bruno,CA,94066,1,Unknown,Not specified
+37.83755777390118,-122.2614257388036,Whole Foods Temescal (TCL),5110 Telegraph Ave,Oakland,CA,94609,2,Unknown,Not specified
+37.766536,-122.24265,BROADWAY MGT 1516 OAK,1516 Oak St,Alameda,CA,94501,1,Unknown,Not specified
+37.635603,-122.401317,CCSF - SFO SFO LTP 6K.1G,806 S Airport Blvd Long Term Garage 2,San Francisco,CA,94128,1,Unknown,Not specified
+37.635566,-122.40137,CCSF - SFO SFO LTP 5K.3,806 S Airport Blvd Long Term Garage 2,San Francisco,CA,94128,1,Unknown,Not specified
+37.634933,-122.4096,BMW GROUP,1000 San Mateo Ave,San Bruno,CA,94080,1,Unknown,Not specified
+37.826318,-122.253741,CITY OF OAKLAND,4000 Howe St,Oakland,CA,94611,1,Unknown,Not specified
+37.876105,-122.295227,BASEMENT JONES STATION 2,1080 Jones St,Berkeley,CA,94710,1,Unknown,Not specified
+37.809965,-122.246595,Lake Park Lot Grand Lake,519 Lake Park Ave,Oakland,CA,94610,2,Unknown,Not specified
+37.8921039,-122.520355,Shelter Bay HOA 5000,5000 Shelter Bay Avenue,Mill Valley,CA,94941,1,Unknown,Not specified
+37.8931706,-122.5188352,Shelter Bay HOA 1000,1000 Shelter Bay Avenue,Mill Valley,CA,94941,1,Unknown,Not specified
+37.88721877873871,-122.3091363341104,BAMC BUCHANAN 1,Buchanan St & I-80,Albany,CA,94706,1,Unknown,Not specified
+37.895754523,-122.514606766,Paramount Property Co,1 Belvedere Pl,Mill Valley,CA,94941,1,Unknown,Not specified
+37.80990219,-122.2444916,3250 Lakeshore Ave,3250 Lakeshore Ave,Oakland,California,94610,2,Unknown,Not specified
+37.768952,-122.238654,EVCHARGENGO1800 1800 PARK 1,1800 Park St,Alameda,CA,94501,1,Unknown,Not specified
+37.88061508080034,-122.2973049390045,Whole Foods - Gilman,1025 Gilman Street,Berkeley,California, 94710,3,Unknown,
+37.91028203014655,-122.3595483800584,Ferry 1 of 4,1435 Harbour Way S,Richmond,CA,94804,1,Unknown,Not specified
+37.63178,-122.399045,SFO Lot D,San Francisco International Airport,San Francisco,CA,94128,1,Unknown,Not specified
+37.859806,-122.27198,CURBSIDE DERBY 01,2640 Martin Luther King Jr Way,Berkeley,CA,94703,1,Unknown,Not specified
+37.631944,-122.3954,UNITED AIRLINES SFO EV 5,800 South Airport Blvd,San Francisco,CA,94128,1,Unknown,Not specified
+37.631874,-122.395317,UNITED AIRLINES SFO EV 1,800 South Airport Blvd,San Francisco,CA,94128,1,Unknown,Not specified
+37.631649,-122.395226,UNITED AIRLINES SFO EV 4,800 South Airport Blvd,San Francisco,CA,94128,1,Unknown,Not specified
+37.6298198,-122.4234746,SFPCU,Unnamed Road,San Bruno,CA,94066,1,Unknown,Not specified
+37.911944,-122.358392,Ford Point,1414 Harbour Way S,Richmond,CA,94804,3,Unknown,Not specified
+37.91193,-122.357445,FORD POINT STATION 1,1414 Harbour way South,Richmond,CA,94804,1,Unknown,Not specified
+37.8961549,-122.5221661,HAUKE PARK,1 Hamilton Dr,Mill Valley,CA,94941,1,Unknown,Not specified
+37.884714004,-122.297712764,"University Village - Albany, CA",1080 Monroe Street,Albany,CA,94706,2,Unknown,Not specified
+37.769111,-122.234205,Nob Hill Foods,2531 Blanding Ave,Alameda,CA,94501,2,Unknown,Not specified
+37.632243,-122.464268,SMCCD,3300 College Rd,San Bruno,CA,94066,1,Unknown,Not specified
+37.627555,-122.424712,WALMART EVSE SAN BRUNO STAT4,850 Cherry Ave,San Bruno,CA,94066,1,Unknown,Not specified
+37.860998,-122.267515,SHATTUCK GARAGE CHARGER 1,2628 Shattuck Ave,Berkeley,CA,94704,1,Unknown,Not specified
+37.6271757,-122.4224334,Bayhill III Office Center,"801 Traeger Avenue
+Suite 110",San Bruno,CA,94066,1,Unknown,Not specified
+37.89389,-122.53033,"Safeway 0788 (Mill Valley, CA)",1 Camino Alto,Mill Valley,CA,94941,3,Unknown,Not specified
+37.627106,-122.424557,WALMART.COM,850 Cherry Ave,San Bruno,CA,94066,1,Unknown,Not specified
+37.62714767,-122.4269409,901 Cherry Ave,901 Cherry Ave,San Bruno,California,94066,2,Unknown,Not specified
+37.86162,-122.267672,G1A,2600 Shattuck Ave,Berkeley,CA,94704,1,Unknown,Not specified
+37.899428,-122.318169,San Francisco Estuary Institute,4911 Central Ave,Richmond,CA,94804,1,Unknown,Not specified
+37.6314033998172,-122.467531465081,College Rd,College Rd,San Bruno,California,94066,1,Unknown,Not specified
+37.630683,-122.466066,SMCCD SKY LOT S B4,3300 College Dr,San Bruno,CA,94066,1,Unknown,Not specified
+37.85553,-122.26077,Whole Foods Berkeley - Telegraph,3000 Telegraph Ave,Berkeley,CA,94705,3,Unknown,Not specified
+37.724481,-122.241921,HOME2 SUITES EV 2,1660 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.630865,-122.468175,SMCCD SKY LOT M2,3300 College Rd. Skyline College,San Bruno,CA,94066,1,Unknown,Not specified
+37.62583373124505,-122.42554770250464,Bayhill Shopping Center,851 Cherry Ave,San Bruno,CA,94066,1,Unknown,Not specified
+37.62646,-122.40095,SFO Courtyard 4,757 N McDonnell Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.724892,-122.241481,HOME2 SUITES,1660 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.91159508,-122.3432861,Shores of the Marina,1 Shoreline Ct,Richmond,CA,94804,1,Unknown,Not specified
+37.863779,-122.267282,ALTABATESSUMMIT,2100 Dwight Way,Berkeley,CA,94704,1,Unknown,Not specified
+37.863858,-122.26671,ALTABATESSUMMIT SHATTUCK LOT 10,2100 Dwight Way,Berkeley,CA,94704,1,Unknown,Not specified
+37.866473,-122.268936,VARSITYBERKELEY STATION 1,2024 Durant Ave,Berkeley,CA,94704,1,Unknown,Not specified
+37.629681,-122.469323,SMCCD SKY LOT G ST,3300 College Dr Skyline College,San Bruno,CA,94066,1,Unknown,Not specified
+37.72453,-122.239877,HARBOR BAY 1600#1,1600 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.723537,-122.240299,HARBOR BAY 1620 #1,1620 S Loop Rd,Alameda,CA,94502,1,Unknown,Not specified
+37.855787,-122.25847,ALTABATESSUMMIT ASHBY GRG EV5,2420 Ashby Ave ASHBY GARAGE,Berkeley,CA,94705,1,Unknown,Not specified
+37.723699,-122.240076,HARBOR BAY 1620 #2,1620 S Loop Rd,Alameda,CA,94502,1,Unknown,Not specified
+37.725724,-122.239167,HARBOR BAY 1501 #3,1501 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.62477,-122.40046,Bldg 710,710 N McDonnell Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.8906857,-122.2964514,Solano Avenue,"Parking Lot Behind
+1191 Solano Avenue",Albany,CA,94706,1,Unknown,Not specified
+37.898447,-122.308938,"Richmond, Ca - Pierce Street Supercharger",3288 Pierce St,Richmond,CA,94804,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.723087,-122.239542,HARBOR BAY 1640 #1,1640 S Loop Rd,Alameda,CA,94502,1,Unknown,Not specified
+37.628674,-122.469185,SMCCD SKY B12 1,3300 College Dr Skyline College,San Bruno,CA,94066,1,Unknown,Not specified
+37.893607,-122.300246,Albany Ford Subaru,718 San Pablo Ave,Albany,CA,94706,1,Unknown,Not specified
+37.915406,-122.347533,RICHMOND MARINA,1207 Melville Square,Richmond,CA,94804,1,Unknown,Not specified
+37.6282798,-122.4679362,SMCCD,11 College Rd,Pacifica,CA,94044,1,Unknown,Not specified
+37.870316,-122.26988,GARAGE CENT 2 GREEN 6,2025 Center St,Berkeley,CA,94704,1,Unknown,Not specified
+37.633297,-122.488827,EUREKA SQUARE 90 EUREKA 2,110 Eureka Dr,Pacifica,CA,94044,1,Unknown,Not specified
+37.72364,-122.238434,HARBOR BAY 1420H #4,1420 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.899648,-122.30929,7 Stars Holistic Healing Center,3219 Pierce St,Richmond,CA,94804,1,Unknown,Not specified
+37.723941,-122.238151,HARBOR BAY 1420 #1,1420 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.870823,-122.26991,GARAGE CENT 2 RED 15,2010 Addison St,Berkeley,CA,94704,1,Unknown,Not specified
+37.874052,-122.27309,EVCharge4U Main Office,1805 Martin Luther King Jr Way,Berkeley,CA,94709,1,Unknown,Not specified
+37.902443,-122.525354,Whole Foods Mill Valley - E Blithedale,731 E Blithedale Ave,Mill Valley,CA,94941,2,Unknown,Not specified
+37.632609,-122.489106,EUREKA SQUARE 90 EUREKA 1,20-210 Eureka Square Dr,Pacifica,CA,94044,1,Unknown,Not specified
+37.8728866577148,-122.271278381348,Greenlots - 112229U,1945 Berkeley Way,Berkeley,CA,BERKE,1,Unknown,Not specified
+37.868856,-122.266685,CITYOFBERKELEY,2165 Kittredge St,Berkeley,CA,94704,1,Unknown,Not specified
+37.9156442,-122.3433497,PGE GREEN FUELS,1100 S 27th St,Richmond,CA,94804,1,Unknown,Not specified
+37.621832,-122.412209,Super 8 San Bruno /SF Intl Arpt West,421 el Camino Real,San Bruno,California,94066,1,Unknown,Not specified
+37.62289,-122.395127,SFO West Field,San Francisco International Airport,San Francisco,CA,94128,1,Unknown,Not specified
+37.62169,-122.39936,SFO 674 North McDonnell Road Stations,674 N McDonnell Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.62034988,-122.4113617,333 El Camino Real,333 El Camino Real,San Bruno,California,94066,2,Unknown,Not specified
+37.723165,-122.235012,HARBOR BAY 1350 #1,1350 S Loop Rd,Alameda,CA,94502,1,Unknown,Not specified
+37.723051,-122.235031,HARBOR BAY 1350 #2,1350 S Loop Rd,Alameda,CA,94502,1,Unknown,Not specified
+37.7283,-122.232451,EMPLOYEE EH 005,1131 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.898635,-122.300672,"El Cerrito, Ca Supercharger",280 el Cerrito Plaza,El Cerrito,CA,94530,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.728397,-122.231917,EMPLOYEE EH 4000 01,1141 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.91989,-122.348601,"Richmond, Ca Supercharger",2157 Meeker Avenue,Richmond,CA,94804,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.726977,-122.231869,BROADWAY MGT 1151 GATEWAY L2,1151 Harbor Bay Pkwy,Alameda,CA,94502,1,Unknown,Not specified
+37.920216,-122.348133,"2157 Meeker Ave - Richmond, CA - Tesla Destination",2157 Meeker Ave,Richmond,CA,94804,1,Unknown,Not specified
+37.618927,-122.426384,701 shelter Creek Ln,701 shelter Creek Ln,San Bruno,California,94066,1,Unknown,Not specified
+37.867469,-122.260082,CITYOFBERKELEY,2450 Durant Ave,Berkeley,CA,94704,1,Unknown,Not specified
+37.72704697,-122.2310104,1151 Harbor Bay Pkwy,1151 Harbor Bay Pkwy,Alameda,California,94502,2,Unknown,Not specified
+37.867361,-122.259509,GARAGE T-C GARAGE #2,2450 Durant Ave,Berkeley,CA,94704,1,Unknown,Not specified
+37.618958,-122.440661,Lunardi's Markets - Tesla Supercharger,2801 San Bruno Avenue,San Bruno,CA,94066,1,Unknown,Not specified
+37.621313,-122.378955,FAA - National Airspace Facility (SFO ATCT),Terminal 2,San Francisco,CA,94128,1,Unknown,Not specified
+37.918214,-122.336768,Caltrans - District 4,3401 Regatta Blvd,Richmond,CA,94804,1,Unknown,Not specified
+37.867942,-122.256305,Graduate Berkeley,2600 Durant Ave,Berkeley,California,94704,1,Unknown,Not specified
+37.915277,-122.3233809,Richmond Bayview Library,5100 Hartnett Ave,Richmond,CA,94804,1,Unknown,Not specified
+37.6161599,-122.3968687,San Francisco International Airport - G1,1 N McDonnell Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.61731339,-122.3854294,806 Airport South Blvd,806 Airport South Blvd,San Francisco,California,94128,2,Unknown,Not specified
+37.61589,-122.39549,SFO Business Center,575 N McDonnell Rd,San Francisco,CA,94128,1,Unknown,Not specified
+37.616035,-122.39071,SFO Courtyard G,San Francisco International Airport,San Francisco,CA,94128,1,Unknown,Not specified
+37.615663,-122.392493,CCSF - SFO SFO INT LOT G-3,San Francisco International Airport Internati,San Francisco,CA,94128,1,Unknown,Not specified
+37.615591,-122.393081,CCSF - SFO SFO INT LOT G-5,San Francisco International Airport Internati,San Francisco,CA,94128,1,Unknown,Not specified
+37.616257,-122.384989,CCSF - SFO VALET 4-1,323 Domestic Terminals Arrivals Level Domesti,San Francisco,CA,94128,1,Unknown,Not specified
+37.615658,-122.386781,CCSF - SFO SFO LOT A-2,San Francisco International Airport Domestic,San Francisco,CA,94128,1,Unknown,Not specified
+37.615704,-122.385044,CCSF - SFO SFO LOT C-5,San Francisco International Airport Domestic,San Francisco,CA,94128,1,Unknown,Not specified
+37.799695,-122.217392,CITY OF OAKLAND,3408 Dimond Ave,Oakland,CA,94602,1,Unknown,Not specified
+37.615412,-122.385953,CCSF - SFO SFO LOT B-2,305 Domestic Terminals Arrivals Level Domesti,San Francisco,CA,94128,1,Unknown,Not specified
+37.799268,-122.216992,3333 Fruitvale Ave,3333 Fruitvale Ave,Oakland,CA,94602,2,Unknown,Not specified
+37.614485,-122.390108,SFO Courtyard A,San Francisco International Airport,San Francisco,CA,94128,1,Unknown,Not specified
+37.6141309,-122.3915951,CCSF - SFO,San Francisco International Airport International Parking Garage A,San Francisco,CA,94128,1,Unknown,Not specified
+37.857507,-122.24184,"Claremont Club & Spa, A Fairmont Hotel",41 Tunnel RD,Berkeley,California,94705,1,Unknown,Free
+37.87561,-122.25717,Hearst Ave. and La Loma Ave.,Hearst Ave. and La Loma Ave.,Berkeley,CA,94709,2,Unknown,Not specified
+37.8718178,-122.2527202,MAXWELL GARAGE,2175 Gayley Rd,Berkeley,CA,94704,1,Unknown,Not specified
+37.8728468,-122.2529026,MAXWELL GARAGE,2175 Gayley Rd,Berkeley,CA,94720,1,Unknown,Not specified
+37.915673,-122.310959,EL CERRITO,10890 San Pablo Ave,El Cerrito,CA,94530,2,Unknown,Not specified
+37.609602,-122.401414,Millwood Inn and Suites,1375 el Camino Real,Millbrae,California,94030,1,Unknown,Not specified
+37.9244245,-122.327548,RICHMOND,551-599 S 45th St,Richmond,CA,94804,2,Unknown,Not specified
+37.924384,-122.513035,AMYS DRIVE THRU PARADISE DRIVE,5839 Paradise Dr,Corte Madera,CA,94925,1,Unknown,Not specified
+37.920564,-122.31572,Del Norte Plaza,11279 San Pablo Ave,El Cerrito,CA,94530,3,Unknown,Not specified
+37.89201,-122.57053,Muir Woods Rd,Muir Woods Rd,Mill Valley,CA,,1,Unknown,Not specified
+37.935986190165735,-122.36109245316639,Kaiser Richmond,901 Nevin Avenue,Richmond,CA,94801,1,Unknown,Not specified
+37.875902,-122.250055,77-EVC-LVL2-1,1 Cyclotron Rd,Berkeley,CA,94720,1,Unknown,Not specified
+37.935777,-122.3552335,City of Richmond Downtown,1401 Macdonald Ave,Richmond,CA,94801,1,Unknown,Not specified
+37.93712,-122.3605023,Kaiser Richmond,901 Nevin Avenue,Richmond,CA,94801,1,Unknown,Not specified
+37.730079,-122.213042,Signature Flight Support OAK - Oakland Int'l Airport - Tesla Destination,8433 Earhart Rd,Oakland,CA,94621,1,Unknown,Not specified
+37.730079,-122.213042,Signature Flight Support Oak - Oakland Int'l Airport,8433 Earhart RD,Oakland,California,94621,1,Unknown,Not specified
+37.893488,-122.572748,Muir Woods,1 Muir Woods Rd,Mill Valley,CA,94941,1,Unknown,Not specified
+37.93742371,-122.3579636,1221 Nevin Ave,1221 Nevin Ave,Richmond,California,94801,2,Unknown,Not specified
+37.9256598,-122.5184926,Corte Madera Town Center - RIVIAN ONLY,100 Corte Madera Town Center,Corte Madera,CA,94925,1,Unknown,Not specified
+37.8055371,-122.2079264,4052 Lincoln,4052 Lincoln Avenue,Oakland,CA,94602,1,Unknown,Not specified
+37.9279845,-122.5129275,The Village At Corte Madera,1400 Redwood Hwy,Corte Madera,CA,94925,1,Unknown,Not specified
+37.934811,-122.3460791,RICHMOND,256 24th St,Richmond,CA,94804,1,Unknown,Not specified
+37.7610941,-122.2045383,ACTRANSIT,1100 Seminary Ave,Oakland,CA,94621,2,Unknown,Not specified
+37.876706,-122.246067,Lawrence Berkeley National Laboratory,1 Cyclotron Rd,Berkeley,CA,94720,2,Unknown,Not specified
+37.928225,-122.514787,"Corte Madera, Ca Supercharger",1618 Redwood Highway,Corte Madera,CA,94925,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.93583798224793,-122.34343782076462,Civic Center,325 Civic Center Plaza,Richmond,CA,94804,3,Unknown,Not specified
+37.9363622,-122.3440266,RICHMOND,325 Civic Center Plaza,Richmond,CA,94804,1,Unknown,Not specified
+37.93182,-122.32929,"Target T1507 (Richmond, CA)",4500 Macdonald Ave,Richmond,CA,94805,2,Unknown,Not specified
+37.603659,-122.394714,Safeway El Camino Real Millbrae,525 El Camino Real,Millbrae,CA,94030,1,Unknown,Not specified
+37.752065,-122.203197,Oakland Arena & RingCentral Coliseum,7000 Coliseum Way,Oakland,CA,94621,1,Unknown,Not specified
+37.7153,-122.2145,Oakland International Airport - Economy Lot,1 Airport Dr,Oakland,CA,94621,1,Unknown,Not specified
+37.60307,-122.396246,MILLBRAE,1 Library Ave,Millbrae,CA,94030,1,Unknown,Not specified
+37.919334,-122.29911,EL CERRITO STATION 01,7501 Schmidt Ln,El Cerrito,CA,94530,1,Unknown,Not specified
+37.933079,-122.330486,Mechanics Bank,201 41st Street,Richmond,CA,94805,3,Unknown,Not specified
+37.937864,-122.344535,RICHMOND,2540 Barrett Ave,Richmond,CA,94804,2,Unknown,Not specified
+37.7149299,-122.2135514,OAK INT AIRPORT,Alan Shepard Way,Oakland,CA,94621,2,Unknown,Not specified
+37.60219913990775,-122.39289995921891,City of Millbrae - Broadway,446 Broadway,Millbrae,California,94030,3,Unknown,Not specified
+37.602168,-122.392969,MILLBRAE 446 BROADWAY #2,446 Broadway,Millbrae,CA,94030,1,Unknown,Not specified
+37.60176266034918,-122.39676535342262,City of Millbrae - Library,1 Library Ave,Millbrae,CA,94030,3,Unknown,Not specified
+37.6041374,-122.3759613,CARCHARGING,1 Old Bayshore Hwy,Millbrae,CA,94030,1,Unknown,Not specified
+37.82723,-122.208879,CITY OF OAKLAND MONTCLAIRGW,6235 La Salle Ave,Piedmont,CA,94611,1,Unknown,Not specified
+37.71722,-122.21122,Oakland International Airport - Fleet Lot,1 Airport Dr,Oakland,CA,94621,1,Unknown,Not specified
+37.712381,-122.21333,OAK INT AIRPORT,1 Airport Dr,Oakland,CA,94621,2,Unknown,Not specified
+37.60116443942439,-122.39282937735743,MILLBRAE,320 Magnolia Avenue,Millbrae,CA,94030,3,Unknown,Not specified
+37.71304070622014,-122.2116330601883,Oakland International Airport - Premier Lot,1 Airport Dr,Oakland,CA,94621,1,Unknown,Not specified
+37.600714,-122.391013,MILLBRAE FARMER'S MKT #1,290 Broadway,Millbrae,CA,94030,1,Unknown,Not specified
+37.71243,-122.21169,Oakland International Airport Premier Parking,1199-1499 Airport Dr,Oakland,California,94621,2,Unknown,Not specified
+37.6012395,-122.383501,Chevron #2200,320 E Millbrae Ave,Millbrae,CA,94030,2,Unknown,Not specified
+37.59942,-122.40137,MILLBRAE 477 LINCOLN #4,477 Lincoln Cir,Millbrae,CA,94030,1,Unknown,Not specified
+37.6006727,-122.3855031,Milbrae Station,200 Rollins Rd,Millbrae,CA,94030,1,Unknown,Not specified
+37.6023496,-122.3706759,San Francisco Airport Marriott Waterfront,1800 Old Bayshore Hwy,Burlingame,CA,94010,3,Unknown,Free
+37.71351,-122.2087,1 Airport Drive,1 Airport Drive,Oakland,CA,94621,1,Unknown,Not specified
+37.755642,-122.195144,COLISEUM PLACE STATION 4,7120 Hawley Street,Oakland,CA,94621,1,Unknown,Not specified
+37.7277718,-122.2018204,CARCHARGING,1 Hegenberger Rd,Oakland,CA,94621,1,Unknown,Not specified
+37.732015,-122.200353,OAKSP SPRINGHILL 1,201 Hegenberger Rd,Oakland,CA,94621,1,Unknown,Not specified
+37.9355313,-122.5184954,TAM RIDGE,195 talmavista,Corte Madera,CA,94925,1,Unknown,Not specified
+37.60706,-122.49713,PACIFICA BREWER PB2,4627 CA-1,Pacifica,CA,94044,1,Unknown,Not specified
+37.73081,-122.200066,OAKLAND H-D,151 Hegenberger Rd,Oakland,CA,94621,1,Unknown,Not specified
+37.606607,-122.497385,PACIFICA BREWER,4627 CA-1,Pacifica,CA,94044,1,Unknown,Not specified
+37.746162,-122.195179,"Oakland, Ca - Hegenberger RD Supercharger",640 Hegenberger Road,Oakland,CA,94621,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.735003,-122.197607,Concentra Urgent Care,333 Hegenberger Road,Oakland,CA,94621,1,Unknown,Not specified
+37.771432,-122.191366,EVSP WALGREENS,5833 Foothill Blvd,Oakland,CA,94605,1,Unknown,Not specified
+37.596385,-122.38728,Friendship Plaza in Millbrae,45 Murchison Drive,Millbrae,CA,94030,1,Unknown,Not specified
+37.725841,-122.198335,Holiday Inn Express Hotel & Suites Oakland-Airport,66 Airport Access RD,Oakland,California,94603,1,Unknown,Not specified
+37.5969,-122.373812,BMW PETER PAN,1625 Adrian Rd,Burlingame,CA,94010,1,Unknown,Not specified
+37.94495,-122.5096,Golden Gate Ferry Terminal,101 E Sir Francis Drake Blvd,Larkspur,CA,94939,1,Unknown,Not specified
+37.9553909301758,-122.367134094238,Greenlots - 112367U,"1535 Fred Jackson Way, Suite A",Richmond,CA,94801,1,Unknown,Not specified
+37.938345,-122.530677,LARKSPUR CMPA,240 Doherty Dr,Larkspur,CA,94939,1,Unknown,Not specified
+37.943646,-122.517177,MRA EV CHARGERS,50 Drakes Landing Rd,Larkspur,CA,94904,1,Unknown,Not specified
+37.939067,-122.530807,LARKSPUR,240 Doherty Dr,Larkspur,CA,94939,1,Unknown,Not specified
+37.951478,-122.49569,BMWSANRAFAEL,1599 Francisco Blvd E,San Rafael,CA,94901,1,Unknown,Not specified
+37.9492682,-122.5055505,SERENITY,1400 Lincoln Village Cir,Larkspur,CA,94939,1,Unknown,Not specified
+37.953889,-122.490366,TARGET T2772 #10,125 Shoreline Blvd,San Rafael,CA,94901,1,Unknown,Not specified
+37.954123,-122.490441,TARGET T2772 #7,125 Shoreline Blvd,San Rafael,CA,94901,1,Unknown,Not specified
+37.7149991,-122.1939881,SAN LEANDRO,2506-3098 Davis St,San Leandro,CA,94577,1,Unknown,Not specified
+37.948882,-122.509812,THE EXCHANGE 900 THE EXCHANG,900 Larkspur Landing Cir,Larkspur,CA,94939,1,Unknown,Not specified
+37.9485327,-122.5112923,THE EXCHANGE,700 Larkspur Landing Cir,Larkspur,CA,94939,1,Unknown,Not specified
+37.7806434,-122.1808917,DC SOLAR,Post Rd,Oakland,CA,94613,1,Unknown,Not specified
+37.949019,-122.511237,THE EXCHANGE 1100 THE EXCHAN,1100 Larkspur Landing Cir,Larkspur,CA,94939,1,Unknown,Not specified
+37.723139,-122.190006,Kaiser San Leandro Garfield Innovation Center,590 Whitney Street,San Leandro,CA,94577,1,Unknown,Not specified
+37.944971,-122.523121,"Greenbrae, Ca Supercharger",50 Bon Air Center,Greenbrae,CA,94904,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.9517033,-122.3332166,LYTTON CASINO,13201 San Pablo Ave,San Pablo,CA,94806,1,Unknown,Not specified
+37.726766,-122.186637,Bigge Crane and Rigging Co,10700 Bigge St,San Leandro,CA,94577,1,Unknown,Not specified
+37.9548336,-122.3391109,CONTRA COSTA CO,501 gateway avenue,San Pablo,CA,94806,1,Unknown,Not specified
+37.95544,-122.33961,CITY HALL COSP 04,1000 Gateway Ave,San Pablo,CA,94806,1,Unknown,Not specified
+37.71946,-122.18748,880 Doolittle Dr,880 Doolittle Dr,San Leandro,CA,94577,2,Unknown,Not specified
+37.5952052,-122.50395,Linda Mar Shopping - Pacifica,"1221 Linda Mar Shopping Center Pacifica, CA",San Francisco,California,94044,3,Unknown,$9.95
+37.591194,-122.348705,"Burlingame, CA Supercharger",150 Anza Blvd,Burlingame,CA,94010,1,Unknown,Not specified
+37.716241,-122.187343,Water Pollution Control Plant,3000 Davis St,San Leandro,CA,94577,1,Unknown,Not specified
+37.593529,-122.503312,Linda Mar Shopping Center,1227 Linda Mar Shopping Ctr,Pacifica,CA,94044,2,Unknown,Not specified
+37.586596,-122.363513,Chula Vista Lot HPCP,1133 Chula Vista,Burlingame,CA,94010,2,Unknown,Not specified
+37.594016,-122.507103,535 SAN PEDRO #1,535 San Pedro Ave,Pacifica,CA,94044,1,Unknown,Not specified
+37.959309,-122.341831,CITY HALL CITYHALLOT03,13831 San Pablo Ave,San Pablo,CA,94806,1,Unknown,Not specified
+37.589929,-122.343146,HILTON SAN FRAN STATION 4,600 Airport Blvd,Burlingame,CA,94010,1,Unknown,Not specified
+37.589902,-122.343167,HILTON SAN FRAN STATION 5,600 Airport Blvd,Burlingame,CA,94010,1,Unknown,Not specified
+37.589908,-122.343103,HILTON SAN FRAN STATION 6,600 Airport Blvd,Burlingame,CA,94010,1,Unknown,Not specified
+37.589888,-122.343146,HILTON SAN FRAN STATION 3,600 Airport Blvd,Burlingame,CA,94010,1,Unknown,Not specified
+37.589505,-122.343423,HILTON SAN FRAN STATION 2,600 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.94729623,-122.536055,Marin Health Medical Center,250 Bon Air Road,Greenbrae,CA,94904,1,Unknown,Not specified
+37.589926,-122.337414,META BUR101-13,311 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.589903,-122.337412,META BUR101-14,311 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.589929,-122.337195,META BUR101-17,311 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.589897,-122.337306,META BUR101-16,311 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.590246,-122.335952,META BUR102-02 ADA,322 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.960176,-122.5010023,COUNTY OF MARIN,3260 Kerner Blvd,San Rafael,CA,94901,1,Unknown,Not specified
+37.590382,-122.335289,META BUR102-08,322 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.589562,-122.336979,META BUR105-06,311 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.589602,-122.335393,META BUR103-05,312 Airport Blvd.,Burlingame,CA,94010,1,Unknown,Not specified
+37.799804,-122.171209,Holistic Care at Home,5707 Redwood Rd,Oakland,CA,94619,1,Unknown,Not specified
+37.9645244,-122.3447793,EVSP WALGREENS,14280 San Pablo Ave,San Pablo,CA,94806,1,Unknown,Not specified
+37.71528,-122.17783,"Walmart 2648 - San Leandro, CA",1919 Davis Street,San Leandro,CA,94577,2,Unknown,Not specified
+37.965895,-122.49773,Greenlots - 112655U,125 Bahia Way,San Rafael,CA,94901,1,Unknown,Not specified
+37.5871257,-122.3290547,SAN MATEO CNTY,"1701 Coyote Point Drive Coyote Point Park, Magic Mountain Playgroud",San Mateo,CA,94401,1,Unknown,Not specified
+37.952535,-122.539042,Bacich Elementary School,699 Sir Francis Drake Blvd.,Kentfield,CA,94904,1,Unknown,Not specified
+37.9629156,-122.5126319,SONNEN MOTORCAR,720 Francisco Blvd W,San Rafael,CA,94901,1,Unknown,Not specified
+37.58001,-122.3506374,BURLINGAME,501 Primrose Rd,Burlingame,CA,94010,1,Unknown,Not specified
+37.950535,-122.5491,KENTFIELD EV19 EV20,700 College Ave,Kentfield,CA,94904,1,Unknown,Not specified
+37.5800222,-122.3452787,BURLINGAME,294-298 California Dr,Burlingame,CA,94010,1,Unknown,Not specified
+37.9685721,-122.3366805,4CD,Mills Ave,Richmond,CA,94806,1,Unknown,Not specified
+37.96419,-122.51719,470 Du Bois,470 Du Bois,San Rafael,California,,1,Unknown,Not specified
+37.952331,-122.54915,Kentfield School District,750 College Ave,Kentfield,CA,94904,1,Unknown,Not specified
+37.965256,-122.516075,MB MARIN MBM CT4020SALES,530 Francisco Blvd W,San Rafael,CA,94901,1,Unknown,Not specified
+37.73715,-122.16354,10950 International,10950 International Blvd,Oakland,CA,94603,3,Unknown,Not specified
+37.707918,-122.172787,Caltrans - District 32,1993 Marina Blvd,San Leandro,CA,94577,1,Unknown,Not specified
+37.57792,-122.341931,Nissan of Burlingame,101 California Dr,Burlingame,CA,94010,2,Unknown,Not specified
+37.97437,-122.489529,SRSC-SanPedro_SanRafael_O,498 POINT SAN PEDRO R,SAN RAFAEL,CA,94901,1,Unknown,Not specified
+37.576945,-122.338389,888 SAN MATEO,888 N San Mateo Dr,San Mateo,CA,94401,1,Unknown,Not specified
+37.967983,-122.518465,SHOWROOM 1 MAIN CHARGER,445 Francisco Blvd E,San Rafael,CA,94901,1,Unknown,Not specified
+37.965895,-122.524903,SRSC-Davidson_SanRafael_O,280 Woodland Ave,San Rafael,CA,94901,1,Unknown,Not specified
+37.5782793,-122.3315827,DO,650 N Delaware St,San Mateo,CA,94401,1,Unknown,Not specified
+37.9697108,-122.5157682,MONTECITO MRKT,433-499 3rd St,San Rafael,CA,94901,1,Unknown,Not specified
+37.970823,-122.51327,SRSC-SRHigh_SanRafael_O,150 3RD STREET,SAN RAFAEL,CA,94901,1,Unknown,Not specified
+37.721,-122.162,Westlake - San Leandro Tech Campus,1600 Alvarado St,San Leandro,CA,94577,1,Unknown,Not specified
+37.971118,-122.517435,Whole Foods Market - Tesla Supercharger,340 3rd Street,San Rafael,CA,94901,1,Unknown,Not specified
+37.720852,-122.160996,"OSIsoft, LLC - Tesla Destination",1600 Alvarado St,San Leandro,CA,94577,1,Unknown,Not specified
+37.97083,-122.52006,515 3rd Street,515 3rd Street,San Rafael,CA,,1,Unknown,Not specified
+37.70977040484179,-122.1647465740487,Marina Square Shopping Center,1201 Marina Blvd,San Leandro,CA,94577,3,Unknown,Not specified
+37.709866,-122.164662,Marina Square Center - Tesla Supercharger,1201 Marina Blvd,San Leandro,CA,94577,1,Unknown,Not specified
+37.896506,-122.639414,Golden Gate National Recreation Area - Stinson Beach,4900 Shoreline Highway 1,Stinson Beach,CA,94970,1,Unknown,Not specified
+37.7063601,-122.1651409,Kaiser San Leandro,2500 Merced Street,San Leandro,CA,94577,1,Unknown,Not specified
+37.71267,-122.16245,San Leandro Nissan,1152 Marina Blvd,San Leandro,CA,94577,3,Unknown,Not specified
+37.692678,-122.171053,Alameda County Electrical Joint Apprenticeship Training Committee,14600 Catalina St,San Leandro,CA,94577,1,Unknown,Not specified
+37.97043228,-122.5262833,775 Lindaro St,775 Lindaro St,San Rafael,California,94901,1,Unknown,Not specified
+37.711856,-122.16108,San Leandro Ford,1111 Marina Blvd,San Leandro,CA,94577,1,Unknown,Not specified
+37.983514,-122.478788,SRSC-Glenwood_SanRafael_O,25 W. CASTLEWOOD DR.,SAN RAFAEL,CA,94901,1,Unknown,Not specified
+37.9719973,-122.5250093,CITYOFSANRAFAEL,900-948 Cijos St,San Rafael,CA,94901,1,Unknown,Not specified
+37.97795,-122.33319,Hilltop Fire,2904 Hilltop Mall Rd,Richmond,CA,94806,1,Unknown,Not specified
+37.725635,-122.1556,SAN LEANDRO,120 Estudillo Ave,San Leandro,CA,94577,1,Unknown,Not specified
+37.973684,-122.522659,MCE Clean Energy,1125 Tamalpais Ave,San Rafael,CA,94901,1,Unknown,Not specified
+37.961257,-122.555799,TOWNOFROSS POPARKING-2,1 Ross Common,Ross,CA,94957,1,Unknown,Not specified
+37.972504,-122.528471,CITYOFSANRAFAEL 3RD & A GARAGE2,901 A St,San Rafael,CA,94901,1,Unknown,Not specified
+37.9725044,-122.5284707,CITYOFSANRAFAEL,901 A St,San Rafael,CA,94901,1,Unknown,Not specified
+37.72408,-122.15392,"BOA San Leandro Main CA4-111 (San Leandro, CA)",1400 E 14TH ST,San Leandro,CA,94577,2,Unknown,Not specified
+37.972724,-122.529305,CITYOFSANRAFAEL A ST CHARGER,930 B St,San Rafael,CA,94901,1,Unknown,Not specified
+37.9739059,-122.5260462,CITYOFSANRAFAEL,950 5th Ave,San Rafael,CA,94901,1,Unknown,Not specified
+37.972439,-122.530861,CITYOFSANRAFAEL C.ST.GARAGE #2,900 c street,San Rafael,CA,94901,1,Unknown,Not specified
+37.97436310706424,-122.5297655037764,"AC Hotel, San Rafael",1201 Fifth Avenue,San Rafael,CA,94901,1,Unknown,Not specified
+37.983629,-122.339944,Biorichland,2600 Hilltop Dr,Richmond,CA,94806,1,Unknown,Not specified
+37.97803,-122.520021,SRSC-Coleman_SanRafael_O,800 BELLE AVE.,SAN RAFAEL,CA,94901,1,Unknown,Not specified
+37.974903,-122.53141,CITYOFSANRAFAEL CITY HALL 2,1400 Fifth Ave,San Rafael,CA,94901,1,Unknown,Not specified
+37.7095999,-122.1550973,GE DuraStation SL1 P2,2661 Alvarado St,San Leandro,CA,94577,1,Unknown,Not specified
+37.975114,-122.531959,San Rafael City Hall,1400 Fifth Ave,San Rafael,California,94901,1,Unknown,Not specified
+37.981018,-122.32392,HILLTOP STATION 2,3170 Hilltop Mall Rd,Richmond,CA,94806,1,Unknown,Not specified
+37.965642,-122.281473,May Valley Fire Station,5201 Valley View Rd,El Sobrante,CA,94803,1,Unknown,Not specified
+37.5679943,-122.3239938,San Mateo Caltrain Station,385 1st Avenue,San Mateo,California,94401,3,Unknown,$9.95. Parking fees apply
+37.567503,-122.323784,San Mateo Caltrain Station,385 1st Ave,San Mateo,CA,94401,3,Unknown,Not specified
+37.566106,-122.327954,The Peninsula Regent,1 Baldwin Ave,San Mateo,CA,94401,1,Unknown,Not specified
+37.567031,-122.323152,PF CA SM 3552nd,355 2nd Ave,San Mateo,CA,94401,1,Unknown,Not specified
+37.981716,-122.319073,"Century 16 3200 Klose Way, Richmond CA",3200 Klose Way Richmond,Richmond,CA,94806,1,Unknown,Not specified
+37.566583,-122.324348,101 S ELLSWORTH STATION 3,101 S Ellsworth Ave,San Mateo,CA,94401,1,Unknown,Not specified
+37.5661,-122.32063,VERKADA VERKADA STN 8,406 S Claremont St,San Mateo,CA,94401,1,Unknown,Not specified
+37.98352,-122.31927,"Site Centers Hilltop Plaza (Richmond, CA)",3401 Blume Dr,Richmond,CA,94806,1,Unknown,Not specified
+37.564867,-122.32412,EVSP WALGREENS STORE 3296,231 S San Mateo Dr,San Mateo,CA,94401,1,Unknown,Not specified
+37.565717,-122.320802,VERKADA STATION 3,405 E 4th Ave,San Mateo,CA,94401,1,Unknown,Not specified
+37.56498,-122.3233,191 E 3rd Ave,191 E 3rd Ave,San Mateo,California,94401,1,Unknown,Not specified
+37.564784,-122.322503,PUBLIC CHARGERS CENTRAL GRG 2,311 S Ellsworth Ave,San Mateo,CA,94401,1,Unknown,Not specified
+37.984778,-122.320369,Hilltop Ford Kia,3280 Auto Plaza Dr,Richmond,CA,94806,1,Unknown,Not specified
+37.98521,-122.32138,Hanlees Hilltop Nissan,3277 Auto Plaza,Richmond,CA,94806,3,Unknown,Not specified
+37.985212,-122.319845,HILLTOP HYUNDAI STATION 2,3280 Auto Plaza,Richmond,CA,94806,2,Unknown,Not specified
+37.985279,-122.319612,HILLTOP HYUNDAI STATION 1,3285 Auto Plaza,Richmond,CA,94806,2,Unknown,Not specified
+37.5624703,-122.3264529,PUBLIC CHARGERS,33-75 W 3rd Ave,San Mateo,CA,94402,1,Unknown,Not specified
+37.564135,-122.318903,PUBLIC CHARGERS KIKU 3-4,400 E 5th Ave,San Mateo,CA,94402,1,Unknown,Not specified
+37.564107,-122.318833,PUBLIC CHARGERS KIKU 3-1,400 E 5th Ave,San Mateo,CA,94402,1,Unknown,Not specified
+37.977309,-122.553439,United Markets San Anselmo,100 Red Hill Rd.,San Anselmo,CA,94960,1,Unknown,Not specified
+37.9748734,-122.5632206,SAN ANSELMO,541 San Anselmo Ave,San Anselmo,CA,94960,1,Unknown,Not specified
+37.975226,-122.5634816,SAN ANSELMO,22 Magnolia Ave,San Anselmo,CA,94960,1,Unknown,Not specified
+37.985222,-122.550856,SRSC-SunValley_SanRafael_O,75 Happy Lane,San Rafael,CA,94901,1,Unknown,Not specified
+37.554727,-122.3171465,1300 S ELCM,1300 S El Camino Real,San Mateo,CA,94402,1,Unknown,Not specified
+37.98008,-122.56506,Sir Francis Drake Blvd & Shaw Rd,Sir Francis Drake Blvd & Shaw Rd,San Anselmo,CA,94960,1,Unknown,Not specified
+37.981179,-122.564817,Red Hill Shopping Center,850 Red Hill Ave,San Anselmo,CA,94939,1,Unknown,Not specified
+37.9948504,-122.5286588,COUNTY OF MARIN,20 N San Pedro Road,San Rafael,CA,94903,1,Unknown,Not specified
+37.707957,-122.13278,McDonald's #939 - 14th Street - San Leandro CA,14823 E. 14th Street,San Leandro,CA,94578,1,Unknown,Not specified
+37.835338,-122.129788,MORAGA MORAGA 1,1299 School St,Moraga,CA,94556,1,Unknown,Not specified
+37.55314181057261,-122.31456921808085,Safeway - San Mateo,1655 El Camino Real,San Mateo,CA,94402,4,Unknown,Not specified
+37.555253,-122.307602,ESSEX 420-G1,420 Station Park Cir,San Mateo,CA,94402,1,Unknown,Not specified
+37.554888,-122.308063,ESSEX 420 STATION,420 Station Park Cir,San Mateo,CA,94402,1,Unknown,Not specified
+37.554306,-122.30912,ESSEX PARK GREEN 10,410 Station Park Cir,San Mateo,CA,94402,1,Unknown,Not specified
+37.554604,-122.30747,ESSEX PARK GREEN 6,430 Station Park Cir,San Mateo,CA,94402,1,Unknown,Not specified
+37.563512,-122.282734,BRIDGEPOINTE STATION 1545,1987 Bridgepointe Cir,San Mateo,CA,94404,1,Unknown,Not specified
+37.906726,-122.66993,Airbnb - Stinson Beach - Tesla Destination,276 Seadrift Rd,Stinson Beach,CA,94970,1,Unknown,Not specified
+37.554032,-122.307244,ESSEX PARK GREEN 02,430 Station Park Circle,San Mateo,CA,94402,1,Unknown,Not specified
+37.996394,-122.530985,COUNTY OF MARIN CC ADMIN 1,3501 Civic Center Drive,San Rafael,CA,94903,1,Unknown,Not specified
+37.553333,-122.30825,ESSEX PARK GREEN 4,400/450 Concar (AM),San Mateo,CA,94402,1,Unknown,Not specified
+37.99767685,-122.5303116,3501 Civic Center Dr,3501 Civic Center Dr,San Rafael,California,94903,2,Unknown,Not specified
+37.998192,-122.529047,CITYOFSANRAFAEL STATION 57,3530 Civic Center Dr,San Rafael,CA,94903,1,Unknown,Not specified
+37.996869,-122.534813,A&W ROOT BEER A&W ROOT BEER,3741 Redwood Highway,San Rafael,CA,94903,1,Unknown,Not specified
+37.703138,-122.129266,Lucky San Leandro,1300 Fairmont Dr,San Leandro,CA,94578,2,Unknown,Not specified
+37.99824,-122.532424,COUNTY OF MARIN,3501 Civic Center Drive,San Rafael,CA,94903,2,Unknown,Not specified
+37.839144,-122.126007,Moraga Commons Park,1425 Saint Marys Road,Moraga,CA,94556,1,Unknown,Not specified
+37.998433,-122.533032,COUNTY OF MARIN HOJ 07-08,3501 Civic Center Dr,San Rafael,CA,94903,1,Unknown,Not specified
+37.5481213,-122.3150743,PUBLIC CHARGERS,1901-1941 O'Farrell St,San Mateo,CA,94403,1,Unknown,Not specified
+37.550432,-122.307281,521401-City of San Mateo,1949 Pacific Blvd.,San Mateo,CA,94403,1,Unknown,Not specified
+37.558395,-122.28434,"San Mateo, Ca - Bridgepointe Pkwy Supercharger",2220 Bridgepointe Pkwy,San Mateo,CA,94404-1569,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.545743,-122.32274,1900 ADLP 1 ADA STALL,1900 Alameda de las Pulgas,San Mateo,CA,94403,1,Unknown,Not specified
+37.556445,-122.286834,1410 GARAGE EV #2,1400 Fashion Island Blvd,San Mateo,CA,94404,1,Unknown,Not specified
+37.556411,-122.286858,1410 GARAGE EV #1,1400 Fashion Island Blvd,San Mateo,CA,94404,1,Unknown,Not specified
+37.555962,-122.288006,1410 GARAGE EV,1400 Fashion Island Blvd,San Mateo,CA,94404,1,Unknown,Not specified
+37.549324,-122.30671,MODE APARTMENTS STATION 2,2089 Pacific Blvd,San Mateo,CA,94403,1,Unknown,Not specified
+37.544712,-122.321287,PF CA SM ALA,2000 Alameda de las Pulgas,San Mateo,CA,94403,1,Unknown,Not specified
+37.549368,-122.305164,MODE APARTMENTS,2089 Pacific Blvd,San Mateo,CA,94403,1,Unknown,Not specified
+37.701627,-122.126322,Bayfair Center Kohl's,15555 E. 14Th St,San Leandro,CA,94578,1,Unknown,Not specified
+37.7020065,-122.1255155,Bayfair Center Northeast Entrance,15555 E. 14Th St,San Leandro,CA,94578,1,Unknown,Not specified
+37.685716,-122.132684,Hilton Garden Inn Oakland/San Leandro,510 Lewelling BLVD,San Leandro,California,94579,1,Unknown,Not specified
+37.552371,-122.292095,ATRIUM STATION 1,1900 S Norfolk St,San Mateo,CA,94403,1,Unknown,Not specified
+37.558608,-122.275953,METRO CENTER METRO TOWER E2,950 Tower Ln,Foster City,CA,94404,1,Unknown,Not specified
+37.717222,-122.119026,ALAMEDA JJC CT4K 004,2500 Fairmont Dr,San Leandro,CA,94578,1,Unknown,Not specified
+37.558025,-122.277002,METRO CENTER METRO TOWER W1,950 Tower Ln,Foster City,CA,94404,1,Unknown,Not specified
+37.717176,-122.118865,ALAMEDA JJC CT4K 001,2500 Fairmont Dr,San Leandro,CA,94578,1,Unknown,Not specified
+37.55663,-122.2798768,1850 Gateway Drive,1850 Gateway Drive,San Mateo,CA,94404,1,Unknown,Not specified
+38.00241852,-122.5335464,10 Ave of the Flags,10 Ave of the Flags,San Rafael,California,94903,2,Unknown,Not specified
+37.861942,-122.128992,Moraga Town Offices,329 Rheem Blvd.,Moraga,CA,94566,1,Unknown,Not specified
+37.559261,-122.270296,Foster City - High Power Charging Plaza,1030 E Hillsdale Blvd,San Mateo,CA,94404,2,Unknown,Not specified
+37.53767,-122.33678,SMCCD EDISON 7,20 Perimeter Rd College of San Mateo,San Mateo,CA,94402,1,Unknown,Not specified
+37.5575532,-122.2735657,METRO TOWER,Portal Ln,Foster City,CA,94404,1,Unknown,Not specified
+37.53744,-122.336525,SMCCD EDISON 3,20 Perimeter Rd College of San Mateo,San Mateo,CA,94402,1,Unknown,Not specified
+38.0031471252441,-122.53702545166,Greenlots - 12341,3900 Civic Center Drive,San Rafael,CA,94903,1,Unknown,Not specified
+37.555716,-122.277133,METRO TOWER,919 E Hillsdale Blvd,Foster City,CA,94404,1,Unknown,Not specified
+37.55977,-122.267282,FOSTER SQUARE FOSTER SQUARE,780 Alma Lane,Foster City,CA,94404,1,Unknown,Not specified
+37.5367579499695,-122.338002351377,Perimeter Rd,Perimeter Rd,Burlingame,California,94010,1,Unknown,Not specified
+38.001626,-122.542781,SEARS - Store #1528 (Northgate Shopping Center),9000 Northgate Mall,San Rafael,CA,94903,1,Unknown,$0.59/kWh; other tariffs available
+37.709057,-122.118548,EMPLOYEE WILLOW ROCK- 01,2050 Fairmont Dr,San Leandro,CA,94578,1,Unknown,Not specified
+37.555293,-122.276783,METRO CENTER 919 E HLSDLE 4,919 E Hillsdale Blvd,Foster City,CA,94404,1,Unknown,Not specified
+37.555264,-122.276828,METRO CENTER 919 E HLSDLE 3,919 E Hillsdale Blvd,Foster City,CA,94404,1,Unknown,Not specified
+37.555202,-122.276929,METRO CENTER 919 E HLSDLE 1,919 E Hillsdale Blvd,Foster City,CA,94404,1,Unknown,Not specified
+37.999232,-122.552077,SRSC-TerraLinda_SanRafael_O,320 NOVA ALBION WAY,SAN RAFAEL,CA,94903,1,Unknown,Not specified
+37.708041,-122.117922,EV ARC ARC SAN LEANDRO,15542 Foothill Blvd,San Leandro,CA,94578,1,Unknown,Not specified
+37.5541854,-122.2767007,HARBOR COVE,900 E Hillsdale Blvd,Foster City,CA,94404,1,Unknown,Not specified
+37.986518,-122.583479,FX CAR CHARGE GEFAIRFAX,720 Center Blvd,Fairfax,CA,94930,1,Unknown,Not specified
+38.00011,-122.28698,Sprouts,1300 Pinole Valley Rd,Pinole,CA,94564,3,Unknown,Not specified
+37.5346643,-122.3367322,SMCCD,1700 W Hillsdale Blvd,San Mateo,CA,94402,1,Unknown,Not specified
+37.536586,-122.327948,CAMPUS DRIVE POP 8-9 3,2955 Campus Drive,San Mateo,CA,94403,1,Unknown,Not specified
+37.536796,-122.3257083,600 HARRISON,2855 Campus Dr,San Mateo,CA,94403,1,Unknown,Not specified
+38.0062308,-122.5382557,4040 CIVIC,4040 Civic Center Dr,San Rafael,CA,94903,1,Unknown,Not specified
+37.9851489,-122.5906981,FAIRFAX,142 Bolinas Rd,Fairfax,CA,94930,2,Unknown,Not specified
+37.536121,-122.325787,PELL PENLARK 2,2855 Campus Dr,San Mateo,CA,94403,1,Unknown,Not specified
+37.536161,-122.323967,CAMPUS DRIVE POP 8-9 7,2955 Campus Dr,San Mateo,CA,94403,1,Unknown,Not specified
+37.542587,-122.300445,STA 2 STATION 2 P2,2850 S Delaware St,San Mateo,CA,94403,1,Unknown,Not specified
+37.9871153,-122.5886504,FAIRFAX,2-38 Broadway,Fairfax,CA,94930,1,Unknown,Not specified
+38.005337,-122.545062,Northgate Mall,5800 Northgate Dr,San Rafael,CA,94903,3,Unknown,Not specified
+38.004442,-122.290582,PINOLE SFTY BLD CITY OF PINOLE,836 Tennent Ave.,Pinole,CA,94564,1,Unknown,Not specified
+37.712737,-122.111785,ALAMEDA,2500 Fairmont Dr,San Leandro,CA,94578,2,Unknown,Not specified
+37.5448953,-122.2909765,PARK PLACE  ,"1100 Park Pl San Mateo, CA",San Mateo,California, 94403,2,Unknown,Free 1st Hour
+37.888324,-122.134871,LAFAYETTE EV,3800 Mt Diablo Blvd,Lafayette,CA,94549,1,Unknown,Not specified
+37.540589313112804,-122.3031743016835,"BoA Hillsdale CA5-143 (San Mateo, CA)",2900 S El Camino Real,San Mateo,CA,94403,2,Unknown,Not specified
+37.541586,-122.299352,BAY MEADOWS 3,2950 S Delaware St,San Mateo,CA,94403,1,Unknown,Not specified
+37.5447,-122.29011,Park Place - Tesla Supercharger,1200 Park Place,San Mateo,CA,94403,1,Unknown,Not specified
+37.531218,-122.33726,SMCCD DO 3 (RIGHT),3401 CSM Dr District Office,San Mateo,CA,94402,1,Unknown,Not specified
+37.531164,-122.337397,SMCCD DO 2 (MIDDLE),3401 CSM Drive District Office,San Mateo,CA,94402,1,Unknown,Not specified
+37.531056,-122.337448,SMCCD DO 1 (LEFT),3401 CSM Dr District Office,San Mateo,CA,94402,1,Unknown,Not specified
+37.531883,-122.333402,SMCCD,1700 West Hillsdale Blvd Marie Curie Lot 5,San Mateo,CA,94402,1,Unknown,Not specified
+37.533219,-122.327475,"San Mateo, Ca - Hillsdale Boulevard Supercharger",1206 West Hillsdale Boulevard,San Mateo,CA,94403,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.530782,-122.337949,SMCCD,3401 Csm Dr,San Mateo,CA,94402,1,Unknown,Not specified
+37.53304101670646,-122.32737557345277,Laurelwood Shopping Center,1206 W Hillsdale Blvd,San Mateo,CA,94403,2,Unknown,Not specified
+37.5389516,-122.3027137,HILLSDALE SC,358 E Sailer Dr,San Mateo,CA,94403,1,Unknown,Not specified
+38.004458,-122.555521,Kaiser Permanente San Rafael Medical Center,99 Montecillo Rd,San Rafael,CA,94903,1,Unknown,Not specified
+38.007846,-122.546418,Northgate One 01,270 Northgate Drive,San Rafael,CA,94903,1,Unknown,Not specified
+37.543787,-122.285551,"San Mateo, CA - 2940 South Norfolk Street",2940 S Norfolk St,San Mateo,CA,94403,1,Unknown,Not specified
+37.842314,-122.108952,SAINT MARY'S CA STATION 6,St Marys Pkwy,Moraga,CA,94556,1,Unknown,Not specified
+37.842354,-122.10891,SAINT MARY'S CA STATION 2,St Marys Pkwy,Moraga,CA,94556,1,Unknown,Not specified
+38.008382333,-122.547532,Northgate One,270 Northgate Drive,San Rafael,CA,94903,1,Unknown,Not specified
+37.842395,-122.108875,SAINT MARY'S CA STATION 1,St Marys Pkwy,Moraga,CA,94556,1,Unknown,Not specified
+37.842473,-122.108806,SAINT MARY'S CA STATION 4,De La Salle Dr,Moraga,CA,94556,1,Unknown,Not specified
+37.842508,-122.108773,SAINT MARY'S CA STATION 5,De La Salle Dr,Moraga,CA,94556,1,Unknown,Not specified
+37.8438679,-122.109091,DC SOLAR,125 De La Salle Dr,Moraga,CA,94556,1,Unknown,Not specified
+38.007147,-122.554769,Mark Day School,39 Trellis Dr,San Rafael,CA,94903,1,Unknown,Not specified
+37.8893419,-122.1289896,Desco Plaza 3,3675 Mt. Diablo Road,Lafayette,CA,94549,1,Unknown,Not specified
+37.670672,-122.120866,McDonald's #823 - Hesperian Blvd - Hayward CA,18708 Hesperian Blvd.,Hayward,CA,94541,1,Unknown,Not specified
+38.017059,-122.5330668,600 HARRISON,200 Smith Ranch Road,San Rafael,CA,94903,1,Unknown,Not specified
+37.667211,-122.120366,"Hayward, Ca Superhcarger",19661 Hesperian Boulevard,Hayward,CA,94541,1,Unknown,$0.26/kWh; other tariffs for older cars
+37.665348,-122.120463,Target,19691 Hesperian Blvd,Hayward,CA,94541,3,Unknown,Not specified
+37.6628724,-122.121474,EXEC AIRPORT,20301 Skywest Dr,Hayward,CA,94545,1,Unknown,Not specified
+37.893662,-122.124881,521417_BART Lafayette,3601 Deer Hill Road,Lafayette,CA,94549,1,Unknown,Not specified
+38.00789,-122.2697,"Save Mart-Lucky 718 (Hercules, CA)",1590 Sycamore Ave,Hercules,CA,94547,3,Unknown,Not specified
+37.5215,-122.3377,"San Mateo, CA - De Anza Boulevard",230 De Anza Blvd,San Mateo,CA,94402,1,Unknown,Not specified
+38.019331,-122.540385,COUNTY OF MARIN LG 5,1600-1650 Los Gamos Dr,San Rafael,CA,94903,1,Unknown,Not specified
+37.52048,-122.33819,"Musich - Crystal Springs Village SC (San Mateo, CA",100 Deanza Blvd,San Mateo,CA,94402,2,Unknown,Not specified
+38.025507,-122.518166,San Rafael Airport Sports Center,440 Smith Ranch Rd,San Rafael,CA,94903,1,Unknown,Not specified
+37.66457409344421,-122.11716641716306,Bedford Plaza,20812 Hesperian Blvd,Hayward,CA,94541,1,Unknown,Not specified
+37.8920418,-122.1205779,LAFAYETTE EV,3566 Mt. Diablo blvd,Lafayette,CA,94549,1,Unknown,Not specified
+37.5220717,-122.5135405,Seal Cove Inn - Tesla,221 Cypress Ave,Moss Beach,CA,94038,1,Unknown,Free
+38.022729,-122.534119,UDR HDR 1,1001 Cresta Way,San Rafael,CA,94903,1,Unknown,Not specified
+38.0207475,-122.5418581,COUNTY OF MARIN,1600 Los Gamos Dr,San Rafael,CA,94903,1,Unknown,Not specified
+38.021095,-122.5413399,Kaiser Permanente - Los Gamos,1650 Los Gamos Drive,San Rafael,CA,94903,1,Unknown,Not specified
+37.925416,-122.697106,Airbnb - Horseshoe Hill - Tesla Destination,190 Horseshoe Hill Rd,Bolinas,CA,94924,1,Unknown,Not specified
+37.52964,-122.28941,CVS,4242 S El Camino Real,San Mateo,CA,94403,1,Unknown,Not specified
+37.89312363,-122.1171036,3502 Mt Diablo Blvd,3502 Mt Diablo Blvd,Lafayette,California,94549,2,Unknown,Not specified
+37.8934422,-122.1171836,Whole Foods - Lafayette,3502 Mt. Diablo Blvd. ,Lafayette,California,94549,2,Unknown,$9.95
+37.53388,-122.27228,500 Clipper Drive,500 Clipper Drive,Belmont,CA,US,3,Unknown,Not specified
+37.89239,-122.114139,McDonald's #15279 - Diablo Blvd - Lafayette CA,3459 Mt. Diablo Blvd.,Lafayette,CA,94549,1,Unknown,Not specified
+37.5337545387796,-122.271007318164,Volkswagen Group of America,500-600 Clipper Dr,Belmont,CA,94002,3,Unknown,Not specified
+37.539704,-122.256233,BAYSHORE TECH,3000 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.539004,-122.256689,REDWOOD LIFE 2400 BRIDGE PKY,2400 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.538195,-122.258497,REDWOOD LIFE 2000 BRIDGE PKY,2000 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.539085,-122.255732,REDWOOD LIFE 3000 BRDG PKY 2,3000 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.514421,-122.333808,SMCOE ACC EV7,69 Tower Road,San Mateo,CA,94402,1,Unknown,Not specified
+37.5378709,-122.2578182,BAYSHORE TECH,2200 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.538435,-122.255426,REDWOOD LIFE 3200 BRIDGE PKY,3200 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.536868,-122.257949,REDWOOD LIFE 1600 BRIDGE (2),1600 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.536576,-122.258393,BAYSHORE TECH,1600 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.666474,-122.106325,McDonald's #18516,355 West A. Street,Hayward,CA,94541,1,Unknown,Not specified
+37.53738,-122.256278,REDWOOD LIFE 1300 ISLAND DR,1300 Island Drive,Redwood City,CA,94065,1,Unknown,Not specified
+37.531303,-122.270026,ORACLE RWSHORE,377-499 Island Pkwy,Belmont,CA,94002,1,Unknown,Not specified
+37.65863,-122.109971,Longwood Elementary School,850 Longwood Ave,Hayward,CA,94541,1,Unknown,Not specified
+37.532731,-122.265104,ORACLE RWSHORE DTECH 2,275 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.5369736,-122.2540527,BAYSHORE TECH,3600 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.532659,-122.26382,ORACLE RWSHORE,275 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.699123,-122.088813,EV 1- STAFF NORTH LOT,20103 Lake Chabot Rd,Castro Valley,CA,94546,1,Unknown,Not specified
+37.534669,-122.257738,BAYSHORE TECH,1200 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.697474,-122.089363,EV 1- DOCTORS PARKING,20103 Lake Chabot Rd,Castro Valley,CA,94546,1,Unknown,Not specified
+37.5113395,-122.3329941,SAN MATEO CNTY,30 Tower Rd,San Mateo,CA,94402,1,Unknown,Not specified
+37.534627,-122.257093,REDWOOD LIFE 1200 ISLAND DR2,1200 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.53105,-122.265636,ORACLE RWSHORE,200 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.6980005,-122.0887463,EV 1-,20103 Lake Chabot Rd,Castro Valley,CA,94546,1,Unknown,Not specified
+37.531473,-122.263896,ORACLE RWSHORE 420 GARAGE-002,400 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.531178,-122.264582,ORACLE RWSHORE 320 GARAGE-002,300 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.6674108,-122.1023842,Costco Hayward BC #823,22330 Hathaway Avenue,Hayward,CA,94541,1,Unknown,Not specified
+37.5337016,-122.2583197,BAYSHORE TECH,800 Bridge Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.531059,-122.264657,ORACLE RWSHORE 320 GARAGE-001,300 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.531363,-122.263745,ORACLE RWSHORE 420 GARAGE-001,400 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.531366,-122.262259,ORACLE RWSHORE 5OP-002,520 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
+37.531328,-122.262309,ORACLE RWSHORE 5OP-001,520 Oracle Pkwy,Redwood City,CA,94065,1,Unknown,Not specified
